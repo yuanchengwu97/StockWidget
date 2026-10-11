@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-11",
+  "last_update": "2026-10-11",
   "codes": {
     "bj810011": {
       "code": "810011",
@@ -680,10 +680,10 @@
       "code": "920096",
       "market": "bj",
       "type": "京",
-      "name": "XD嘉晨智",
+      "name": "嘉晨智能",
       "name_en": "",
-      "py": "xdjiachenzhi",
-      "abbr": "xdjcz"
+      "py": "jiachenzhineng",
+      "abbr": "jczn"
     },
     "bj920098": {
       "code": "920098",
@@ -964,6 +964,15 @@
       "py": "haichangzhineng",
       "abbr": "hczn"
     },
+    "bj920157": {
+      "code": "920157",
+      "market": "bj",
+      "type": "京",
+      "name": "N宇特",
+      "name_en": "",
+      "py": "nyute",
+      "abbr": "nyt"
+    },
     "bj920158": {
       "code": "920158",
       "market": "bj",
@@ -999,6 +1008,15 @@
       "name_en": "",
       "py": "longchenkeji",
       "abbr": "lckj"
+    },
+    "bj920162": {
+      "code": "920162",
+      "market": "bj",
+      "type": "京",
+      "name": "莫森泰克",
+      "name_en": "",
+      "py": "mosentaike",
+      "abbr": "mstk"
     },
     "bj920163": {
       "code": "920163",
@@ -1234,6 +1252,15 @@
       "py": "sanxiangkeji",
       "abbr": "sxkj"
     },
+    "bj920196": {
+      "code": "920196",
+      "market": "bj",
+      "type": "京",
+      "name": "南方乳业",
+      "name_en": "",
+      "py": "nanfangruye",
+      "abbr": "nfry"
+    },
     "bj920198": {
       "code": "920198",
       "market": "bj",
@@ -1269,6 +1296,15 @@
       "name_en": "",
       "py": "bairuiji",
       "abbr": "brj"
+    },
+    "bj920202": {
+      "code": "920202",
+      "market": "bj",
+      "type": "京",
+      "name": "安达股份",
+      "name_en": "",
+      "py": "andagufen",
+      "abbr": "adgf"
     },
     "bj920204": {
       "code": "920204",
@@ -1638,6 +1674,15 @@
       "name_en": "",
       "py": "huahuizhineng",
       "abbr": "hhzn"
+    },
+    "bj920296": {
+      "code": "920296",
+      "market": "bj",
+      "type": "京",
+      "name": "文峰光电",
+      "name_en": "",
+      "py": "wenfengguangdian",
+      "abbr": "wfgd"
     },
     "bj920298": {
       "code": "920298",

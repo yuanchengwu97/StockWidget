@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-11",
+  "last_update": "2026-10-11",
   "codes": {
     "usa": {
       "code": "a",
@@ -658,6 +658,15 @@
       "py": "aibiying",
       "abbr": "aby"
     },
+    "usabnd": {
+      "code": "abnd",
+      "market": "us",
+      "type": "美",
+      "name": "American Century Core Plus Income ETF",
+      "name_en": "American Century Core Plus Income ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usabos": {
       "code": "abos",
       "market": "us",
@@ -910,6 +919,15 @@
       "py": "",
       "abbr": ""
     },
+    "usaccv": {
+      "code": "accv",
+      "market": "us",
+      "type": "美",
+      "name": "Accelevation Holdings Corp. - Class A ordinary shares",
+      "name_en": "Accelevation Holdings Corp. - Class A ordinary shares",
+      "py": "",
+      "abbr": ""
+    },
     "usacdc": {
       "code": "acdc",
       "market": "us",
@@ -1072,15 +1090,6 @@
       "py": "",
       "abbr": ""
     },
-    "usachr_ws": {
-      "code": "achr_ws",
-      "market": "us",
-      "type": "美",
-      "name": "Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",
-      "name_en": "Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",
-      "py": "",
-      "abbr": ""
-    },
     "usachv": {
       "code": "achv",
       "market": "us",
@@ -1114,6 +1123,15 @@
       "type": "美",
       "name": "American Coastal Insurance Corporation - Common Stock",
       "name_en": "American Coastal Insurance Corporation - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usacig": {
+      "code": "acig",
+      "market": "us",
+      "type": "美",
+      "name": "Hartford Alpha Capture International Growth ETF",
+      "name_en": "Hartford Alpha Capture International Growth ETF",
       "py": "",
       "abbr": ""
     },
@@ -1396,6 +1414,15 @@
       "py": "",
       "abbr": ""
     },
+    "usacsm": {
+      "code": "acsm",
+      "market": "us",
+      "type": "美",
+      "name": "Hartford Alpha Capture SMID Cap ETF",
+      "name_en": "Hartford Alpha Capture SMID Cap ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usacsp": {
       "code": "acsp",
       "market": "us",
@@ -1537,6 +1564,15 @@
       "type": "美",
       "name": "Acurx Pharmaceuticals, Inc. - Common Stock",
       "name_en": "Acurx Pharmaceuticals, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usacyb": {
+      "code": "acyb",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF",
+      "name_en": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -1897,6 +1933,15 @@
       "type": "美",
       "name": "Adaptiv Select ETF",
       "name_en": "Adaptiv Select ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usadrx": {
+      "code": "adrx",
+      "market": "us",
+      "type": "美",
+      "name": "ADARx Pharmaceuticals, Inc. - Common stock",
+      "name_en": "ADARx Pharmaceuticals, Inc. - Common stock",
       "py": "",
       "abbr": ""
     },
@@ -2359,15 +2404,6 @@
       "py": "",
       "abbr": ""
     },
-    "usaeth": {
-      "code": "aeth",
-      "market": "us",
-      "type": "美",
-      "name": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF",
-      "name_en": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF",
-      "py": "",
-      "abbr": ""
-    },
     "usaeva": {
       "code": "aeva",
       "market": "us",
@@ -2410,6 +2446,24 @@
       "type": "美",
       "name": "Advanced Flower Capital Inc. - Common Stock",
       "name_en": "Advanced Flower Capital Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usafdm": {
+      "code": "afdm",
+      "market": "us",
+      "type": "美",
+      "name": "First Trust Active Factor International ETF",
+      "name_en": "First Trust Active Factor International ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usafem": {
+      "code": "afem",
+      "market": "us",
+      "type": "美",
+      "name": "First Trust Active Factor Emerging Markets ETF",
+      "name_en": "First Trust Active Factor Emerging Markets ETF",
       "py": "",
       "abbr": ""
     },
@@ -3295,6 +3349,15 @@
       "py": "erbeizuokongaiyudashujuetf-direxion",
       "abbr": "ebzkaiydsjetf-direxion"
     },
+    "usaibf": {
+      "code": "aibf",
+      "market": "us",
+      "type": "美",
+      "name": "iShares Future AI Beneficiaries ETF",
+      "name_en": "iShares Future AI Beneficiaries ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usaibu": {
       "code": "aibu",
       "market": "us",
@@ -3310,6 +3373,15 @@
       "type": "美",
       "name": "Bitzero Holdings Inc. - Common Shares",
       "name_en": "Bitzero Holdings Inc. - Common Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usaich": {
+      "code": "aich",
+      "market": "us",
+      "type": "美",
+      "name": "China AI ETF",
+      "name_en": "China AI ETF",
       "py": "",
       "abbr": ""
     },
@@ -3553,6 +3625,15 @@
       "type": "美",
       "name": "Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest",
       "name_en": "Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest",
+      "py": "",
+      "abbr": ""
+    },
+    "usaiok": {
+      "code": "aiok",
+      "market": "us",
+      "type": "美",
+      "name": "AI OKTO CORP. - Common Stock",
+      "name_en": "AI OKTO CORP. - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -3823,15 +3904,6 @@
       "type": "美",
       "name": "Defiance US 100 Tech AI Moat ETF",
       "name_en": "Defiance US 100 Tech AI Moat ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "usaixc": {
-      "code": "aixc",
-      "market": "us",
-      "type": "美",
-      "name": "AIxCrypto Holdings, Inc. - Common Stock",
-      "name_en": "AIxCrypto Holdings, Inc. - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -5464,15 +5536,6 @@
       "py": "zuokongyamaxunetf-direxion",
       "abbr": "zkymxetf-direxion"
     },
-    "usamze": {
-      "code": "amze",
-      "market": "us",
-      "type": "美",
-      "name": "Amaze Holdings, Inc. Common Stock",
-      "name_en": "Amaze Holdings, Inc. Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usamzg": {
       "code": "amzg",
       "market": "us",
@@ -5815,15 +5878,6 @@
       "py": "",
       "abbr": ""
     },
-    "usany": {
-      "code": "any",
-      "market": "us",
-      "type": "美",
-      "name": "Sphere 3D Corp. - Common Shares",
-      "name_en": "Sphere 3D Corp. - Common Shares",
-      "py": "",
-      "abbr": ""
-    },
     "usaoa": {
       "code": "aoa",
       "market": "us",
@@ -5837,8 +5891,8 @@
       "code": "aoct",
       "market": "us",
       "type": "美",
-      "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026",
-      "name_en": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026",
+      "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028",
+      "name_en": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028",
       "py": "",
       "abbr": ""
     },
@@ -6661,15 +6715,6 @@
       "py": "",
       "abbr": ""
     },
-    "usarbew": {
-      "code": "arbew",
-      "market": "us",
-      "type": "美",
-      "name": "Arbe Robotics Ltd. - Warrant",
-      "name_en": "Arbe Robotics Ltd. - Warrant",
-      "py": "",
-      "abbr": ""
-    },
     "usarbk": {
       "code": "arbk",
       "market": "us",
@@ -7453,6 +7498,15 @@
       "py": "",
       "abbr": ""
     },
+    "usasbh": {
+      "code": "asbh",
+      "market": "us",
+      "type": "美",
+      "name": "American Savings Bank, N.A. Common Stock",
+      "name_en": "American Savings Bank, N.A. Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usasbp": {
       "code": "asbp",
       "market": "us",
@@ -7540,6 +7594,15 @@
       "type": "美",
       "name": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest",
       "name_en": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest",
+      "py": "",
+      "abbr": ""
+    },
+    "usasgir": {
+      "code": "asgir",
+      "market": "us",
+      "type": "美",
+      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
+      "name_en": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
       "py": "",
       "abbr": ""
     },
@@ -7813,6 +7876,15 @@
       "py": "",
       "abbr": ""
     },
+    "usassx": {
+      "code": "assx",
+      "market": "us",
+      "type": "美",
+      "name": "T-REX 2X Long ASST Daily Target ETF",
+      "name_en": "T-REX 2X Long ASST Daily Target ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usastc": {
       "code": "astc",
       "market": "us",
@@ -7957,12 +8029,12 @@
       "py": "",
       "abbr": ""
     },
-    "usatai": {
-      "code": "atai",
+    "usat": {
+      "code": "at",
       "market": "us",
       "type": "美",
-      "name": "AtaiBeckley Inc. - Common Stock",
-      "name_en": "AtaiBeckley Inc. - Common Stock",
+      "name": "Defiance Robotics Actuators ETF",
+      "name_en": "Defiance Robotics Actuators ETF",
       "py": "",
       "abbr": ""
     },
@@ -9052,6 +9124,15 @@
       "type": "美",
       "name": "Avantis U.S. Mid Cap Value ETF",
       "name_en": "Avantis U.S. Mid Cap Value ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usavnc": {
+      "code": "avnc",
+      "market": "us",
+      "type": "美",
+      "name": "Avantis All International Core Equity ETF",
+      "name_en": "Avantis All International Core Equity ETF",
       "py": "",
       "abbr": ""
     },
@@ -10423,15 +10504,6 @@
       "py": "",
       "abbr": ""
     },
-    "usbbbyw": {
-      "code": "bbbyw",
-      "market": "us",
-      "type": "美",
-      "name": "Neighborhood Intelligence, Inc.  - Warrant",
-      "name_en": "Neighborhood Intelligence, Inc.  - Warrant",
-      "py": "",
-      "abbr": ""
-    },
     "usbbc": {
       "code": "bbc",
       "market": "us",
@@ -10456,6 +10528,24 @@
       "type": "美",
       "name": "JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF",
       "name_en": "JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usbbci": {
+      "code": "bbci",
+      "market": "us",
+      "type": "美",
+      "name": "Bradbury Capital Inc. - Ordinary Shares",
+      "name_en": "Bradbury Capital Inc. - Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usbbciw": {
+      "code": "bbciw",
+      "market": "us",
+      "type": "美",
+      "name": "Bradbury Capital Inc. - Warrants",
+      "name_en": "Bradbury Capital Inc. - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -10837,6 +10927,15 @@
       "py": "",
       "abbr": ""
     },
+    "usbcatr": {
+      "code": "bcatr",
+      "market": "us",
+      "type": "美",
+      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
+      "name_en": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
+      "py": "",
+      "abbr": ""
+    },
     "usbcax": {
       "code": "bcax",
       "market": "us",
@@ -11080,6 +11179,15 @@
       "py": "bulinke",
       "abbr": "blk"
     },
+    "usbcom": {
+      "code": "bcom",
+      "market": "us",
+      "type": "美",
+      "name": "Rareview Bloomberg Commodity Index ETF",
+      "name_en": "Rareview Bloomberg Commodity Index ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usbcor": {
       "code": "bcor",
       "market": "us",
@@ -11257,6 +11365,15 @@
       "type": "美",
       "name": "Russell Investments Core Plus Bond ETF",
       "name_en": "Russell Investments Core Plus Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usbdai": {
+      "code": "bdai",
+      "market": "us",
+      "type": "美",
+      "name": "Biddance AI Systems, Inc. - Class A Ordinary Share",
+      "name_en": "Biddance AI Systems, Inc. - Class A Ordinary Share",
       "py": "",
       "abbr": ""
     },
@@ -13663,15 +13780,6 @@
       "py": "",
       "abbr": ""
     },
-    "usblfs": {
-      "code": "blfs",
-      "market": "us",
-      "type": "美",
-      "name": "BioLife Solutions, Inc. - Common Stock",
-      "name_en": "BioLife Solutions, Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usblgr": {
       "code": "blgr",
       "market": "us",
@@ -14306,8 +14414,8 @@
       "code": "bnc",
       "market": "us",
       "type": "美",
-      "name": "CEA Industries Inc. - Common Stock",
-      "name_en": "CEA Industries Inc. - Common Stock",
+      "name": "BNB Standard Corporation - Common Stock",
+      "name_en": "BNB Standard Corporation - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -14315,8 +14423,8 @@
       "code": "bncww",
       "market": "us",
       "type": "美",
-      "name": "CEA Industries Inc. - Warrant",
-      "name_en": "CEA Industries Inc. - Warrant",
+      "name": "BNB Standard Corporation - Warrant",
+      "name_en": "BNB Standard Corporation - Warrant",
       "py": "",
       "abbr": ""
     },
@@ -14324,8 +14432,8 @@
       "code": "bncwz",
       "market": "us",
       "type": "美",
-      "name": "CEA Industries Inc. - Warrants",
-      "name_en": "CEA Industries Inc. - Warrants",
+      "name": "BNB Standard Corporation - Warrants",
+      "name_en": "BNB Standard Corporation - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -15445,12 +15553,12 @@
       "py": "",
       "abbr": ""
     },
-    "usbrr": {
-      "code": "brr",
+    "usbrrku": {
+      "code": "brrku",
       "market": "us",
       "type": "美",
-      "name": "ProCap Financial, Inc. - Common Stock",
-      "name_en": "ProCap Financial, Inc. - Common Stock",
+      "name": "Bluerock Acquisition Corp. II - Units",
+      "name_en": "Bluerock Acquisition Corp. II - Units",
       "py": "",
       "abbr": ""
     },
@@ -15460,15 +15568,6 @@
       "type": "美",
       "name": "Coinshares Bitcoin ETF",
       "name_en": "Coinshares Bitcoin ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "usbrrww": {
-      "code": "brrww",
-      "market": "us",
-      "type": "美",
-      "name": "ProCap Financial, Inc. - Warrant.",
-      "name_en": "ProCap Financial, Inc. - Warrant.",
       "py": "",
       "abbr": ""
     },
@@ -15949,6 +16048,15 @@
       "py": "",
       "abbr": ""
     },
+    "usbsma": {
+      "code": "bsma",
+      "market": "us",
+      "type": "美",
+      "name": "Invesco BulletShares 2036 Municipal Bond ETF",
+      "name_en": "Invesco BulletShares 2036 Municipal Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usbsmc": {
       "code": "bsmc",
       "market": "us",
@@ -16241,8 +16349,8 @@
       "code": "btcc",
       "market": "us",
       "type": "美",
-      "name": "Grayscale Bitcoin Covered Call ETF",
-      "name_en": "Grayscale Bitcoin Covered Call ETF",
+      "name": "Grayscale Bitcoin High Income ETF",
+      "name_en": "Grayscale Bitcoin High Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -16450,15 +16558,6 @@
       "type": "美",
       "name": "BTQ Technologies Corp. - Common Stock",
       "name_en": "BTQ Technologies Corp. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usbtr": {
-      "code": "btr",
-      "market": "us",
-      "type": "美",
-      "name": "Beacon Tactical Risk ETF",
-      "name_en": "Beacon Tactical Risk ETF",
       "py": "",
       "abbr": ""
     },
@@ -16732,6 +16831,15 @@
       "py": "",
       "abbr": ""
     },
+    "usbuil": {
+      "code": "buil",
+      "market": "us",
+      "type": "美",
+      "name": "Rebuild America ETF",
+      "name_en": "Rebuild America ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usbul": {
       "code": "bul",
       "market": "us",
@@ -16803,6 +16911,15 @@
       "name_en": "Burlington Stores, Inc. Common Stock",
       "py": "bolingdunbaihuo",
       "abbr": "bldbh"
+    },
+    "usburu": {
+      "code": "buru",
+      "market": "us",
+      "type": "美",
+      "name": "Nuburu, Inc. Common Stock",
+      "name_en": "Nuburu, Inc. Common Stock",
+      "py": "",
+      "abbr": ""
     },
     "usbusa": {
       "code": "busa",
@@ -17834,8 +17951,8 @@
       "code": "capa",
       "market": "us",
       "type": "美",
-      "name": "Defiance AI Capacitors Leaders ETF",
-      "name_en": "Defiance AI Capacitors Leaders ETF",
+      "name": "Defiance AI Capacitors & MLCC ETF",
+      "name_en": "Defiance AI Capacitors & MLCC ETF",
       "py": "",
       "abbr": ""
     },
@@ -18124,6 +18241,24 @@
       "type": "美",
       "name": "Global X S&P 500 Catholic Values ETF",
       "name_en": "Global X S&P 500 Catholic Values ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "uscatl": {
+      "code": "catl",
+      "market": "us",
+      "type": "美",
+      "name": "Catalyst Acquisition Corp. - Class A Ordinary Share",
+      "name_en": "Catalyst Acquisition Corp. - Class A Ordinary Share",
+      "py": "",
+      "abbr": ""
+    },
+    "uscatlr": {
+      "code": "catlr",
+      "market": "us",
+      "type": "美",
+      "name": "Catalyst Acquisition Corp. - Rights",
+      "name_en": "Catalyst Acquisition Corp. - Rights",
       "py": "",
       "abbr": ""
     },
@@ -19918,6 +20053,15 @@
       "py": "compugenyiliao",
       "abbr": "compugenyl"
     },
+    "uscgfs": {
+      "code": "cgfs",
+      "market": "us",
+      "type": "美",
+      "name": "CG Flagship Equity ETF",
+      "name_en": "CG Flagship Equity ETF",
+      "py": "",
+      "abbr": ""
+    },
     "uscgge": {
       "code": "cgge",
       "market": "us",
@@ -20404,6 +20548,15 @@
       "py": "",
       "abbr": ""
     },
+    "uschip": {
+      "code": "chip",
+      "market": "us",
+      "type": "美",
+      "name": "REX AI Chipmaking ETF",
+      "name_en": "REX AI Chipmaking ETF",
+      "py": "",
+      "abbr": ""
+    },
     "uschiq": {
       "code": "chiq",
       "market": "us",
@@ -20698,6 +20851,15 @@
       "type": "美",
       "name": "Calamos Global Dynamic Income Fund - Closed End Fund",
       "name_en": "Calamos Global Dynamic Income Fund - Closed End Fund",
+      "py": "",
+      "abbr": ""
+    },
+    "uschwm": {
+      "code": "chwm",
+      "market": "us",
+      "type": "美",
+      "name": "Chilwa Minerals Limited - American Depository Shares",
+      "name_en": "Chilwa Minerals Limited - American Depository Shares",
       "py": "",
       "abbr": ""
     },
@@ -22717,33 +22879,6 @@
       "py": "kekoukelezhuangping",
       "abbr": "kkklzp"
     },
-    "uscola": {
-      "code": "cola",
-      "market": "us",
-      "type": "美",
-      "name": "Columbus Acquisition Corp - Ordinary Shares",
-      "name_en": "Columbus Acquisition Corp - Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "uscolar": {
-      "code": "colar",
-      "market": "us",
-      "type": "美",
-      "name": "Columbus Acquisition Corp - Rights",
-      "name_en": "Columbus Acquisition Corp - Rights",
-      "py": "",
-      "abbr": ""
-    },
-    "uscolau": {
-      "code": "colau",
-      "market": "us",
-      "type": "美",
-      "name": "Columbus Acquisition Corp - Unit",
-      "name_en": "Columbus Acquisition Corp - Unit",
-      "py": "",
-      "abbr": ""
-    },
     "uscolb": {
       "code": "colb",
       "market": "us",
@@ -23680,6 +23815,15 @@
       "py": "",
       "abbr": ""
     },
+    "uscpu": {
+      "code": "cpu",
+      "market": "us",
+      "type": "美",
+      "name": "Amplify Top 10 Semiconductors ETF",
+      "name_en": "Amplify Top 10 Semiconductors ETF",
+      "py": "",
+      "abbr": ""
+    },
     "uscpxr": {
       "code": "cpxr",
       "market": "us",
@@ -24508,15 +24652,6 @@
       "py": "",
       "abbr": ""
     },
-    "uscsan": {
-      "code": "csan",
-      "market": "us",
-      "type": "美",
-      "name": "Cosan S.A. ADS",
-      "name_en": "Cosan S.A. ADS",
-      "py": "",
-      "abbr": ""
-    },
     "uscsb": {
       "code": "csb",
       "market": "us",
@@ -24577,6 +24712,15 @@
       "type": "美",
       "name": "Cohen & Steers Future of Energy Active ETF",
       "name_en": "Cohen & Steers Future of Energy Active ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "uscsep": {
+      "code": "csep",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series",
+      "name_en": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series",
       "py": "",
       "abbr": ""
     },
@@ -24886,6 +25030,15 @@
       "py": "",
       "abbr": ""
     },
+    "usctag": {
+      "code": "ctag",
+      "market": "us",
+      "type": "美",
+      "name": "Calamos Timpani Active SMID Growth ETF",
+      "name_en": "Calamos Timpani Active SMID Growth ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usctap": {
       "code": "ctap",
       "market": "us",
@@ -24962,8 +25115,8 @@
       "code": "ctgg",
       "market": "us",
       "type": "美",
-      "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
-      "name_en": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
+      "name": "Qwest Corporation - 6.500% Notes due 2051",
+      "name_en": "Qwest Corporation - 6.500% Notes due 2051",
       "py": "",
       "abbr": ""
     },
@@ -24980,8 +25133,8 @@
       "code": "cthh",
       "market": "us",
       "type": "美",
-      "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
-      "name_en": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
+      "name": "Qwest Corporation - 6.750% Notes due 2052",
+      "name_en": "Qwest Corporation - 6.750% Notes due 2052",
       "py": "",
       "abbr": ""
     },
@@ -25144,6 +25297,15 @@
       "type": "美",
       "name": "CTS Corporation Common Stock",
       "name_en": "CTS Corporation Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usctse": {
+      "code": "ctse",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - September Series",
+      "name_en": "Corgi U.S. Equities 30% Structured Buffer ETF - September Series",
       "py": "",
       "abbr": ""
     },
@@ -26308,6 +26470,15 @@
       "py": "nongchanpinetf-powershares",
       "abbr": "ncpetf-powershares"
     },
+    "usdbar": {
+      "code": "dbar",
+      "market": "us",
+      "type": "美",
+      "name": "IMGP DBI Absolute Return ETF",
+      "name_en": "IMGP DBI Absolute Return ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usdbaw": {
       "code": "dbaw",
       "market": "us",
@@ -26488,42 +26659,6 @@
       "py": "",
       "abbr": ""
     },
-    "usdbrg": {
-      "code": "dbrg",
-      "market": "us",
-      "type": "美",
-      "name": "DigitalBridge Group, Inc.",
-      "name_en": "DigitalBridge Group, Inc.",
-      "py": "",
-      "abbr": ""
-    },
-    "usdbrg_h": {
-      "code": "dbrg_h",
-      "market": "us",
-      "type": "美",
-      "name": "DigitalBridge Group, Inc. 7.125% Series H",
-      "name_en": "DigitalBridge Group, Inc. 7.125% Series H",
-      "py": "",
-      "abbr": ""
-    },
-    "usdbrg_i": {
-      "code": "dbrg_i",
-      "market": "us",
-      "type": "美",
-      "name": "DigitalBridge Group, Inc. 7.15% Series I",
-      "name_en": "DigitalBridge Group, Inc. 7.15% Series I",
-      "py": "",
-      "abbr": ""
-    },
-    "usdbrg_j": {
-      "code": "dbrg_j",
-      "market": "us",
-      "type": "美",
-      "name": "DigitalBridge Group, Inc. 7.125% Series J",
-      "name_en": "DigitalBridge Group, Inc. 7.125% Series J",
-      "py": "",
-      "abbr": ""
-    },
     "usdbvt": {
       "code": "dbvt",
       "market": "us",
@@ -26548,6 +26683,15 @@
       "type": "美",
       "name": "Dakota Gold Corp. Common Stock",
       "name_en": "Dakota Gold Corp. Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usdcap": {
+      "code": "dcap",
+      "market": "us",
+      "type": "美",
+      "name": "T-Strive Digital Credit Preferred Income ETF",
+      "name_en": "T-Strive Digital Credit Preferred Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -26636,8 +26780,8 @@
       "code": "dcor",
       "market": "us",
       "type": "美",
-      "name": "Dimensional US Core Equity 1 ETF",
-      "name_en": "Dimensional US Core Equity 1 ETF",
+      "name": "US Core Equity 1 Portfolio ETF Class Shares",
+      "name_en": "US Core Equity 1 Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -27338,8 +27482,8 @@
       "code": "dfac",
       "market": "us",
       "type": "美",
-      "name": "Dimensional U.S. Core Equity 2 ETF",
-      "name_en": "Dimensional U.S. Core Equity 2 ETF",
+      "name": "U.S. Core Equity 2 Portfolio ETF Class Shares",
+      "name_en": "U.S. Core Equity 2 Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -27374,8 +27518,8 @@
       "code": "dfar",
       "market": "us",
       "type": "美",
-      "name": "Dimensional US Real Estate ETF",
-      "name_en": "Dimensional US Real Estate ETF",
+      "name": "DFA Real Estate Securities Portfolio ETF Class Shares",
+      "name_en": "DFA Real Estate Securities Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -27383,8 +27527,8 @@
       "code": "dfas",
       "market": "us",
       "type": "美",
-      "name": "Dimensional U.S. Small Cap ETF",
-      "name_en": "Dimensional U.S. Small Cap ETF",
+      "name": "U.S. Small Cap Portfolio: ETF Class Shares",
+      "name_en": "U.S. Small Cap Portfolio: ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -27392,8 +27536,8 @@
       "code": "dfat",
       "market": "us",
       "type": "美",
-      "name": "Dimensional U.S. Targeted Value ETF",
-      "name_en": "Dimensional U.S. Targeted Value ETF",
+      "name": "U.S. Targeted Value Portfolio ETF Class Shares",
+      "name_en": "U.S. Targeted Value Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -27752,8 +27896,8 @@
       "code": "dfsv",
       "market": "us",
       "type": "美",
-      "name": "Dimensional US Small Cap Value ETF",
-      "name_en": "Dimensional US Small Cap Value ETF",
+      "name": "US Small Cap Value Portfolio ETF Class Shares",
+      "name_en": "US Small Cap Value Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -28999,6 +29143,15 @@
       "py": "",
       "abbr": ""
     },
+    "usdmxu": {
+      "code": "dmxu",
+      "market": "us",
+      "type": "美",
+      "name": "Xtrackers Bloomberg Developed Markets ex US Equity ETF",
+      "name_en": "Xtrackers Bloomberg Developed Markets ex US Equity ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usdna": {
       "code": "dna",
       "market": "us",
@@ -29224,15 +29377,6 @@
       "py": "",
       "abbr": ""
     },
-    "usdomo": {
-      "code": "domo",
-      "market": "us",
-      "type": "美",
-      "name": "Domo, Inc. - Class B Common Stock",
-      "name_en": "Domo, Inc. - Class B Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usdon": {
       "code": "don",
       "market": "us",
@@ -29355,7 +29499,7 @@
       "market": "us",
       "type": "美",
       "name": "天成科技",
-      "name_en": "Top KingWin Ltd - Class A Ordinary Shares",
+      "name_en": "Nexpu Ltd. - Class A Ordinary Shares",
       "py": "tianchengkeji",
       "abbr": "tckj"
     },
@@ -29383,6 +29527,15 @@
       "type": "美",
       "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June",
       "name_en": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June",
+      "py": "",
+      "abbr": ""
+    },
+    "usdqse": {
+      "code": "dqse",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September",
+      "name_en": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September",
       "py": "",
       "abbr": ""
     },
@@ -29421,15 +29574,6 @@
       "name_en": "YieldMax DKNG Option Income Strategy ETF",
       "py": "dkngqiquanshouyicelveetf-yieldmax",
       "abbr": "dkngqqsycletf-yieldmax"
-    },
-    "usdrct": {
-      "code": "drct",
-      "market": "us",
-      "type": "美",
-      "name": "Direct Digital Holdings, Inc. - Class A Common Stock",
-      "name_en": "Direct Digital Holdings, Inc. - Class A Common Stock",
-      "py": "",
-      "abbr": ""
     },
     "usdrd": {
       "code": "drd",
@@ -29527,6 +29671,15 @@
       "type": "美",
       "name": "Global X Autonomous & Electric Vehicles ETF",
       "name_en": "Global X Autonomous & Electric Vehicles ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usdrk": {
+      "code": "drk",
+      "market": "us",
+      "type": "美",
+      "name": "DarkHorse Technologies Inc. - Common Shares",
+      "name_en": "DarkHorse Technologies Inc. - Common Shares",
       "py": "",
       "abbr": ""
     },
@@ -30128,8 +30281,8 @@
       "code": "duhp",
       "market": "us",
       "type": "美",
-      "name": "Dimensional US High Profitability ETF",
-      "name_en": "Dimensional US High Profitability ETF",
+      "name": "US High Relative Profitability Portfolio ETF Class Shares",
+      "name_en": "US High Relative Profitability Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -30601,6 +30754,15 @@
       "py": "",
       "abbr": ""
     },
+    "usdx_d": {
+      "code": "dx_d",
+      "market": "us",
+      "type": "美",
+      "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
+      "name_en": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usdxc": {
       "code": "dxc",
       "market": "us",
@@ -30695,8 +30857,8 @@
       "code": "dxuv",
       "market": "us",
       "type": "美",
-      "name": "Dimensional US Vector Equity ETF",
-      "name_en": "Dimensional US Vector Equity ETF",
+      "name": "US Vector Equity Portfolio ETF Class Shares",
+      "name_en": "US Vector Equity Portfolio ETF Class Shares",
       "py": "",
       "abbr": ""
     },
@@ -30889,6 +31051,15 @@
       "py": "",
       "abbr": ""
     },
+    "useafh": {
+      "code": "eafh",
+      "market": "us",
+      "type": "美",
+      "name": "Xtrackers MSCI EAFE 50% Hedged Equity ETF",
+      "name_en": "Xtrackers MSCI EAFE 50% Hedged Equity ETF",
+      "py": "",
+      "abbr": ""
+    },
     "useagg": {
       "code": "eagg",
       "market": "us",
@@ -30949,15 +31120,6 @@
       "type": "美",
       "name": "Global X Rare Earth & Critical Materials ETF",
       "name_en": "Global X Rare Earth & Critical Materials ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "useasg": {
-      "code": "easg",
-      "market": "us",
-      "type": "美",
-      "name": "Xtrackers MSCI EAFE Selection Equity ETF",
-      "name_en": "Xtrackers MSCI EAFE Selection Equity ETF",
       "py": "",
       "abbr": ""
     },
@@ -33076,6 +33238,15 @@
       "py": "",
       "abbr": ""
     },
+    "usemse": {
+      "code": "emse",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - September Series",
+      "name_en": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - September Series",
+      "py": "",
+      "abbr": ""
+    },
     "usemsf": {
       "code": "emsf",
       "market": "us",
@@ -33181,6 +33352,15 @@
       "type": "美",
       "name": "Enhanced Group Inc. Class A Common Stock",
       "name_en": "Enhanced Group Inc. Class A Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usenhe": {
+      "code": "enhe",
+      "market": "us",
+      "type": "美",
+      "name": "iShares Enhanced Emerging Markets Active ETF",
+      "name_en": "iShares Enhanced Emerging Markets Active ETF",
       "py": "",
       "abbr": ""
     },
@@ -33298,6 +33478,15 @@
       "type": "美",
       "name": "Einride AB - Warrants",
       "name_en": "Einride AB - Warrants",
+      "py": "",
+      "abbr": ""
+    },
+    "usenrg": {
+      "code": "enrg",
+      "market": "us",
+      "type": "美",
+      "name": "Ninepoint North American Energy Independence ETF",
+      "name_en": "Ninepoint North American Energy Independence ETF",
       "py": "",
       "abbr": ""
     },
@@ -34417,6 +34606,15 @@
       "py": "",
       "abbr": ""
     },
+    "usesyn": {
+      "code": "esyn",
+      "market": "us",
+      "type": "美",
+      "name": "EnerSyn Global Inc. - Common Stock",
+      "name_en": "EnerSyn Global Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "uset": {
       "code": "et",
       "market": "us",
@@ -34448,8 +34646,8 @@
       "code": "etco",
       "market": "us",
       "type": "美",
-      "name": "Grayscale Ethereum Covered Call ETF",
-      "name_en": "Grayscale Ethereum Covered Call ETF",
+      "name": "Grayscale Ethereum High Income ETF",
+      "name_en": "Grayscale Ethereum High Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -34650,6 +34848,15 @@
       "name_en": "Entergy Corporation Common Stock",
       "py": "anteji",
       "abbr": "atj"
+    },
+    "usetra": {
+      "code": "etra",
+      "market": "us",
+      "type": "美",
+      "name": "Electra Therapeutics, Inc. - Common stock",
+      "name_en": "Electra Therapeutics, Inc. - Common stock",
+      "py": "",
+      "abbr": ""
     },
     "usets": {
       "code": "ets",
@@ -37288,15 +37495,6 @@
       "py": "sijijiaoyu",
       "abbr": "sjjy"
     },
-    "usfeed": {
-      "code": "feed",
-      "market": "us",
-      "type": "美",
-      "name": "ENvue Medical, Inc. - Common Stock",
-      "name_en": "ENvue Medical, Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usfege": {
       "code": "fege",
       "market": "us",
@@ -37801,6 +37999,15 @@
       "py": "",
       "abbr": ""
     },
+    "usffr": {
+      "code": "ffr",
+      "market": "us",
+      "type": "美",
+      "name": "FF EAI Robotics Ecosystem Inc. - Common Stock",
+      "name_en": "FF EAI Robotics Ecosystem Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usffsm": {
       "code": "ffsm",
       "market": "us",
@@ -37852,6 +38059,24 @@
       "type": "美",
       "name": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
       "name_en": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usfgc": {
+      "code": "fgc",
+      "market": "us",
+      "type": "美",
+      "name": "FG Communities Holdings Inc. - Common Stock",
+      "name_en": "FG Communities Holdings Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usfgcpp": {
+      "code": "fgcpp",
+      "market": "us",
+      "type": "美",
+      "name": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock",
+      "name_en": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock",
       "py": "",
       "abbr": ""
     },
@@ -37942,24 +38167,6 @@
       "type": "美",
       "name": "F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",
       "name_en": "F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",
-      "py": "",
-      "abbr": ""
-    },
-    "usfgnx": {
-      "code": "fgnx",
-      "market": "us",
-      "type": "美",
-      "name": "FG Nexus Inc. - Common Stock",
-      "name_en": "FG Nexus Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usfgnxp": {
-      "code": "fgnxp",
-      "market": "us",
-      "type": "美",
-      "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock",
-      "name_en": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock",
       "py": "",
       "abbr": ""
     },
@@ -38593,12 +38800,39 @@
       "py": "",
       "abbr": ""
     },
+    "usfjdi": {
+      "code": "fjdi",
+      "market": "us",
+      "type": "美",
+      "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares",
+      "name_en": "ARC Group Securities Acquisition I - Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usfjdir": {
+      "code": "fjdir",
+      "market": "us",
+      "type": "美",
+      "name": "ARC Group Securities Acquisition I - Rights",
+      "name_en": "ARC Group Securities Acquisition I - Rights",
+      "py": "",
+      "abbr": ""
+    },
     "usfjdiu": {
       "code": "fjdiu",
       "market": "us",
       "type": "美",
       "name": "ARC Group Securities Acquisition I - Units",
       "name_en": "ARC Group Securities Acquisition I - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "usfjdiw": {
+      "code": "fjdiw",
+      "market": "us",
+      "type": "美",
+      "name": "ARC Group Securities Acquisition I - Warrants",
+      "name_en": "ARC Group Securities Acquisition I - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -40699,15 +40933,6 @@
       "py": "",
       "abbr": ""
     },
-    "usfsea": {
-      "code": "fsea",
-      "market": "us",
-      "type": "美",
-      "name": "First Seacoast Bancorp, Inc. - Common Stock",
-      "name_en": "First Seacoast Bancorp, Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usfsec": {
       "code": "fsec",
       "market": "us",
@@ -41729,8 +41954,8 @@
       "code": "fusi",
       "market": "us",
       "type": "美",
-      "name": "American Century Multisector Floating Income ETF",
-      "name_en": "American Century Multisector Floating Income ETF",
+      "name": "American Century Ultrashort Income ETF",
+      "name_en": "American Century Ultrashort Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -41918,8 +42143,8 @@
       "code": "fwona",
       "market": "us",
       "type": "美",
-      "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
-      "name_en": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
+      "name": "Liberty Media Corporation - Series A Common Stock",
+      "name_en": "Liberty Media Corporation - Series A Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -41927,8 +42152,8 @@
       "code": "fwonk",
       "market": "us",
       "type": "美",
-      "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
-      "name_en": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
+      "name": "Liberty Media Corporation - Series C Common Stock",
+      "name_en": "Liberty Media Corporation - Series C Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -42607,15 +42832,6 @@
       "py": "bitebietf-grayscale",
       "abbr": "btbetf-grayscale"
     },
-    "usgbtg": {
-      "code": "gbtg",
-      "market": "us",
-      "type": "美",
-      "name": "Global Business Travel Group, Inc. Class A Common Stock",
-      "name_en": "Global Business Travel Group, Inc. Class A Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usgbug": {
       "code": "gbug",
       "market": "us",
@@ -42775,6 +42991,15 @@
       "type": "美",
       "name": "Goldman Sachs Core Plus Bond ETF",
       "name_en": "Goldman Sachs Core Plus Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usgcpu": {
+      "code": "gcpu",
+      "market": "us",
+      "type": "美",
+      "name": "Grayscale AI Compute ETF",
+      "name_en": "Grayscale AI Compute ETF",
       "py": "",
       "abbr": ""
     },
@@ -43264,6 +43489,15 @@
       "py": "",
       "abbr": ""
     },
+    "usgemq": {
+      "code": "gemq",
+      "market": "us",
+      "type": "美",
+      "name": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF",
+      "name_en": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usgen": {
       "code": "gen",
       "market": "us",
@@ -43399,15 +43633,6 @@
       "py": "jielong",
       "abbr": "jl"
     },
-    "usgety": {
-      "code": "gety",
-      "market": "us",
-      "type": "美",
-      "name": "Getty Images Holdings, Inc. Class A Common Stock",
-      "name_en": "Getty Images Holdings, Inc. Class A Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usgev": {
       "code": "gev",
       "market": "us",
@@ -43480,15 +43705,6 @@
       "py": "weianzhineng",
       "abbr": "wazn"
     },
-    "usgfaiw": {
-      "code": "gfaiw",
-      "market": "us",
-      "type": "美",
-      "name": "卫安智能(权证)",
-      "name_en": "Guardforce AI Co., Limited - Warrant",
-      "py": "weianzhineng(quanzheng)",
-      "abbr": "wazn(qz)"
-    },
     "usgfeb": {
       "code": "gfeb",
       "market": "us",
@@ -43549,15 +43765,6 @@
       "type": "美",
       "name": "Greenfire Resources Ltd. Common Shares",
       "name_en": "Greenfire Resources Ltd. Common Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "usgfrr": {
-      "code": "gfrr",
-      "market": "us",
-      "type": "美",
-      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
-      "name_en": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
       "py": "",
       "abbr": ""
     },
@@ -44785,6 +44992,15 @@
       "py": "",
       "abbr": ""
     },
+    "usgmac": {
+      "code": "gmac",
+      "market": "us",
+      "type": "美",
+      "name": "Simplify Brookwood Global Macro ETF",
+      "name_en": "Simplify Brookwood Global Macro ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usgmar": {
       "code": "gmar",
       "market": "us",
@@ -45529,6 +45745,15 @@
       "type": "美",
       "name": "iShares 25  Year Treasury STRIPS Bond ETF",
       "name_en": "iShares 25  Year Treasury STRIPS Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usgow": {
+      "code": "gow",
+      "market": "us",
+      "type": "美",
+      "name": "GOWell Energy Technology - Ordinary shares",
+      "name_en": "GOWell Energy Technology - Ordinary shares",
       "py": "",
       "abbr": ""
     },
@@ -47107,15 +47332,6 @@
       "py": "",
       "abbr": ""
     },
-    "usgwh": {
-      "code": "gwh",
-      "market": "us",
-      "type": "美",
-      "name": "ESS Tech, Inc. Common Stock",
-      "name_en": "ESS Tech, Inc. Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usgwre": {
       "code": "gwre",
       "market": "us",
@@ -47980,15 +48196,6 @@
       "py": "",
       "abbr": ""
     },
-    "ushcwc": {
-      "code": "hcwc",
-      "market": "us",
-      "type": "美",
-      "name": "Healthy Choice Wellness Corp. Class A Common Stock",
-      "name_en": "Healthy Choice Wellness Corp. Class A Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "ushcxy": {
       "code": "hcxy",
       "market": "us",
@@ -48245,8 +48452,8 @@
       "code": "help",
       "market": "us",
       "type": "美",
-      "name": "Cybin Inc. - Common Stock",
-      "name_en": "Cybin Inc. - Common Stock",
+      "name": "Helus Pharma Inc.  - Common Stock",
+      "name_en": "Helus Pharma Inc.  - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -48427,6 +48634,15 @@
       "type": "美",
       "name": "Hartford Large Cap Growth ETF",
       "name_en": "Hartford Large Cap Growth ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "ushfix": {
+      "code": "hfix",
+      "market": "us",
+      "type": "美",
+      "name": "Nomura High Yield Total Return ETF",
+      "name_en": "Nomura High Yield Total Return ETF",
       "py": "",
       "abbr": ""
     },
@@ -48870,15 +49086,6 @@
       "name_en": "AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)",
       "py": "shangchengshuke",
       "abbr": "scsk"
-    },
-    "ushkit": {
-      "code": "hkit",
-      "market": "us",
-      "type": "美",
-      "name": "海天-A",
-      "name_en": "Hitek Global Inc. - Class A Ordinary Share",
-      "py": "haitian-a",
-      "abbr": "ht-a"
     },
     "ushkpd": {
       "code": "hkpd",
@@ -49366,6 +49573,15 @@
       "py": "",
       "abbr": ""
     },
+    "ushost": {
+      "code": "host",
+      "market": "us",
+      "type": "美",
+      "name": "Host Digital Inc. Class A Common Stock",
+      "name_en": "Host Digital Inc. Class A Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "ushour": {
       "code": "hour",
       "market": "us",
@@ -49780,6 +49996,15 @@
       "py": "",
       "abbr": ""
     },
+    "ushsep": {
+      "code": "hsep",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - September Series",
+      "name_en": "Corgi U.S. Equities 100% Structured Buffer ETF - September Series",
+      "py": "",
+      "abbr": ""
+    },
     "ushshp": {
       "code": "hshp",
       "market": "us",
@@ -50086,6 +50311,15 @@
       "py": "",
       "abbr": ""
     },
+    "ushuck": {
+      "code": "huck",
+      "market": "us",
+      "type": "美",
+      "name": "Huckleberry.ai, Inc. - Class B Common Stock",
+      "name_en": "Huckleberry.ai, Inc. - Class B Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "ushudi": {
       "code": "hudi",
       "market": "us",
@@ -50137,6 +50371,15 @@
       "type": "美",
       "name": "Humacyte, Inc. - Common Stock",
       "name_en": "Humacyte, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "ushumm": {
+      "code": "humm",
+      "market": "us",
+      "type": "美",
+      "name": "800VDC AI Datacenter Ecosystem ETF",
+      "name_en": "800VDC AI Datacenter Ecosystem ETF",
       "py": "",
       "abbr": ""
     },
@@ -50230,33 +50473,6 @@
       "py": "",
       "abbr": ""
     },
-    "ushvii": {
-      "code": "hvii",
-      "market": "us",
-      "type": "美",
-      "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
-      "name_en": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "ushviir": {
-      "code": "hviir",
-      "market": "us",
-      "type": "美",
-      "name": "Hennessy Capital Investment Corp. VII - Rights",
-      "name_en": "Hennessy Capital Investment Corp. VII - Rights",
-      "py": "",
-      "abbr": ""
-    },
-    "ushviiu": {
-      "code": "hviiu",
-      "market": "us",
-      "type": "美",
-      "name": "Hennessy Capital Investment Corp. VII - Unit",
-      "name_en": "Hennessy Capital Investment Corp. VII - Unit",
-      "py": "",
-      "abbr": ""
-    },
     "ushvmc": {
       "code": "hvmc",
       "market": "us",
@@ -50338,15 +50554,6 @@
       "py": "",
       "abbr": ""
     },
-    "ushwh": {
-      "code": "hwh",
-      "market": "us",
-      "type": "美",
-      "name": "HWH International Inc. - Common Stock",
-      "name_en": "HWH International Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "ushwiv": {
       "code": "hwiv",
       "market": "us",
@@ -50371,6 +50578,15 @@
       "type": "美",
       "name": "Howmet Aerospace Inc. Common Stock",
       "name_en": "Howmet Aerospace Inc. Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "ushwmv": {
+      "code": "hwmv",
+      "market": "us",
+      "type": "美",
+      "name": "Hotchkis & Wiley Mid-Cap Value Fund",
+      "name_en": "Hotchkis & Wiley Mid-Cap Value Fund",
       "py": "",
       "abbr": ""
     },
@@ -50454,6 +50670,15 @@
       "name_en": "Hyster-Yale, Inc. Class A common stock",
       "py": "haisite-yelu",
       "abbr": "hst-yl"
+    },
+    "ushyac_u": {
+      "code": "hyac_u",
+      "market": "us",
+      "type": "美",
+      "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "name_en": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "py": "",
+      "abbr": ""
     },
     "ushybb": {
       "code": "hybb",
@@ -50765,8 +50990,8 @@
       "code": "hysa",
       "market": "us",
       "type": "美",
-      "name": "BondBloxx USD High Yield Bond Sector Rotation ETF",
-      "name_en": "BondBloxx USD High Yield Bond Sector Rotation ETF",
+      "name": "BondBloxx High Yield Income ETF",
+      "name_en": "BondBloxx High Yield Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -51931,6 +52156,15 @@
       "py": "",
       "abbr": ""
     },
+    "usicmo": {
+      "code": "icmo",
+      "market": "us",
+      "type": "美",
+      "name": "Symmetry Panoramic International Country Momentum ETF",
+      "name_en": "Symmetry Panoramic International Country Momentum ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usicon": {
       "code": "icon",
       "market": "us",
@@ -52243,6 +52477,15 @@
       "type": "美",
       "name": "iShares Self-Driving EV and Tech ETF",
       "name_en": "iShares Self-Driving EV and Tech ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usidse": {
+      "code": "idse",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - September Series",
+      "name_en": "Corgi International Developed Equities 15% Structured Buffer ETF - September Series",
       "py": "",
       "abbr": ""
     },
@@ -53137,15 +53380,6 @@
       "py": "",
       "abbr": ""
     },
-    "usilcb": {
-      "code": "ilcb",
-      "market": "us",
-      "type": "美",
-      "name": "iShares Morningstar Large-Cap ETF",
-      "name_en": "iShares Morningstar Large-Cap ETF",
-      "py": "",
-      "abbr": ""
-    },
     "usilcg": {
       "code": "ilcg",
       "market": "us",
@@ -53188,24 +53422,6 @@
       "type": "美",
       "name": "iShares Lithium Miners and Producers ETF",
       "name_en": "iShares Lithium Miners and Producers ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "usillr": {
-      "code": "illr",
-      "market": "us",
-      "type": "美",
-      "name": "Triller Group Inc. - Common Stock",
-      "name_en": "Triller Group Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usillrw": {
-      "code": "illrw",
-      "market": "us",
-      "type": "美",
-      "name": "Triller Group Inc. - Warrant",
-      "name_en": "Triller Group Inc. - Warrant",
       "py": "",
       "abbr": ""
     },
@@ -54357,7 +54573,7 @@
       "market": "us",
       "type": "美",
       "name": "单片机微系统",
-      "name_en": "Identiv, Inc. - Common Stock",
+      "name_en": "INVE Technologies, Inc. - Common Stock",
       "py": "danpianjiweixitong",
       "abbr": "dpjwxt"
     },
@@ -54466,15 +54682,6 @@
       "type": "美",
       "name": "IonQ, Inc. Common Stock",
       "name_en": "IonQ, Inc. Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usionq_ws": {
-      "code": "ionq_ws",
-      "market": "us",
-      "type": "美",
-      "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
-      "name_en": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
       "py": "",
       "abbr": ""
     },
@@ -54658,33 +54865,6 @@
       "py": "",
       "abbr": ""
     },
-    "usipex": {
-      "code": "ipex",
-      "market": "us",
-      "type": "美",
-      "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
-      "name_en": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "usipexr": {
-      "code": "ipexr",
-      "market": "us",
-      "type": "美",
-      "name": "Inflection Point Acquisition Corp. - Right",
-      "name_en": "Inflection Point Acquisition Corp. - Right",
-      "py": "",
-      "abbr": ""
-    },
-    "usipexu": {
-      "code": "ipexu",
-      "market": "us",
-      "type": "美",
-      "name": "Inflection Point Acquisition Corp. - Unit",
-      "name_en": "Inflection Point Acquisition Corp. - Unit",
-      "py": "",
-      "abbr": ""
-    },
     "usipfx": {
       "code": "ipfx",
       "market": "us",
@@ -54730,12 +54910,30 @@
       "py": "",
       "abbr": ""
     },
+    "usiphx": {
+      "code": "iphx",
+      "market": "us",
+      "type": "美",
+      "name": "Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares",
+      "name_en": "Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "usiphxu": {
       "code": "iphxu",
       "market": "us",
       "type": "美",
       "name": "Inflection Point Acquisition Corp. VIII - Unit",
       "name_en": "Inflection Point Acquisition Corp. VIII - Unit",
+      "py": "",
+      "abbr": ""
+    },
+    "usiphxw": {
+      "code": "iphxw",
+      "market": "us",
+      "type": "美",
+      "name": "Inflection Point Acquisition Corp. VIII - Warrant",
+      "name_en": "Inflection Point Acquisition Corp. VIII - Warrant",
       "py": "",
       "abbr": ""
     },
@@ -54916,6 +55114,15 @@
       "type": "美",
       "name": "Northern Trust International Quality Dividend Dynamic ETF",
       "name_en": "Northern Trust International Quality Dividend Dynamic ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usiqgr": {
+      "code": "iqgr",
+      "market": "us",
+      "type": "美",
+      "name": "Astoria International Quality Growth Kings ETF",
+      "name_en": "Astoria International Quality Growth Kings ETF",
       "py": "",
       "abbr": ""
     },
@@ -55303,15 +55510,6 @@
       "type": "美",
       "name": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF",
       "name_en": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "usiscb": {
-      "code": "iscb",
-      "market": "us",
-      "type": "美",
-      "name": "iShares Morningstar Small-Cap ETF",
-      "name_en": "iShares Morningstar Small-Cap ETF",
       "py": "",
       "abbr": ""
     },
@@ -55870,6 +56068,15 @@
       "type": "美",
       "name": "Inventiva S.A. - American Depository Shares",
       "name_en": "Inventiva S.A. - American Depository Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usivai": {
+      "code": "ivai",
+      "market": "us",
+      "type": "美",
+      "name": "Ives Ultra AI Opportunities Inc. Common Stock",
+      "name_en": "Ives Ultra AI Opportunities Inc. Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -57511,6 +57718,15 @@
       "py": "",
       "abbr": ""
     },
+    "usjint": {
+      "code": "jint",
+      "market": "us",
+      "type": "美",
+      "name": "Janus Henderson International Core Alpha ETF",
+      "name_en": "Janus Henderson International Core Alpha ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usjire": {
       "code": "jire",
       "market": "us",
@@ -58195,6 +58411,15 @@
       "py": "",
       "abbr": ""
     },
+    "usjqty": {
+      "code": "jqty",
+      "market": "us",
+      "type": "美",
+      "name": "Jensen U.S. Quality Index ETF",
+      "name_en": "Jensen U.S. Quality Index ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usjqua": {
       "code": "jqua",
       "market": "us",
@@ -58291,15 +58516,6 @@
       "type": "美",
       "name": "Jasper Therapeutics, Inc. - Class A Common Stock",
       "name_en": "Jasper Therapeutics, Inc. - Class A Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usjsprw": {
-      "code": "jsprw",
-      "market": "us",
-      "type": "美",
-      "name": "Jasper Therapeutics, Inc. - Warrant",
-      "name_en": "Jasper Therapeutics, Inc. - Warrant",
       "py": "",
       "abbr": ""
     },
@@ -59023,6 +59239,15 @@
       "py": "",
       "abbr": ""
     },
+    "uskchp": {
+      "code": "kchp",
+      "market": "us",
+      "type": "美",
+      "name": "KICK Korea Semiconductor Index ETF",
+      "name_en": "KICK Korea Semiconductor Index ETF",
+      "py": "",
+      "abbr": ""
+    },
     "uskchv": {
       "code": "kchv",
       "market": "us",
@@ -59487,7 +59712,7 @@
       "market": "us",
       "type": "美",
       "name": "卡夫亨氏",
-      "name_en": "The Kraft Heinz Company - Common Stock",
+      "name_en": "The Kraft Heinz Company Common Stock",
       "py": "kafuhengshi",
       "abbr": "kfhs"
     },
@@ -59803,15 +60028,6 @@
       "type": "美",
       "name": "KLX Energy Services Holdings, Inc.  - Common Stock",
       "name_en": "KLX Energy Services Holdings, Inc.  - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usklxer": {
-      "code": "klxer",
-      "market": "us",
-      "type": "美",
-      "name": "KLX Energy Services Holdings, Inc.  - Rights",
-      "name_en": "KLX Energy Services Holdings, Inc.  - Rights",
       "py": "",
       "abbr": ""
     },
@@ -60805,15 +61021,6 @@
       "py": "",
       "abbr": ""
     },
-    "uskttaw": {
-      "code": "kttaw",
-      "market": "us",
-      "type": "美",
-      "name": "Pasithea Therapeutics Corp. - Warrant",
-      "name_en": "Pasithea Therapeutics Corp. - Warrant",
-      "py": "",
-      "abbr": ""
-    },
     "usktup": {
       "code": "ktup",
       "market": "us",
@@ -61579,6 +61786,15 @@
       "py": "",
       "abbr": ""
     },
+    "uslciv": {
+      "code": "lciv",
+      "market": "us",
+      "type": "美",
+      "name": "Logan Capital International ETF",
+      "name_en": "Logan Capital International ETF",
+      "py": "",
+      "abbr": ""
+    },
     "uslclg": {
       "code": "lclg",
       "market": "us",
@@ -61813,6 +62029,15 @@
       "py": "linkendianqi",
       "abbr": "lkdq"
     },
+    "usledru": {
+      "code": "ledru",
+      "market": "us",
+      "type": "美",
+      "name": "Leader's Advantage Acquisition Corp. - Units",
+      "name_en": "Leader's Advantage Acquisition Corp. - Units",
+      "py": "",
+      "abbr": ""
+    },
     "usleds": {
       "code": "leds",
       "market": "us",
@@ -61945,15 +62170,6 @@
       "type": "美",
       "name": "BNY Mellon Strategic Municipals, Inc. Common Stock",
       "name_en": "BNY Mellon Strategic Municipals, Inc. Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "uslesl": {
-      "code": "lesl",
-      "market": "us",
-      "type": "美",
-      "name": "Leslie's, Inc. - Common Stock",
-      "name_en": "Leslie's, Inc. - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -62197,15 +62413,6 @@
       "type": "美",
       "name": "Lifeward Ltd. - Ordinary Shares",
       "name_en": "Lifeward Ltd. - Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "uslgcf": {
-      "code": "lgcf",
-      "market": "us",
-      "type": "美",
-      "name": "Themes US Cash Flow Champions ETF",
-      "name_en": "Themes US Cash Flow Champions ETF",
       "py": "",
       "abbr": ""
     },
@@ -62551,15 +62758,6 @@
       "py": "",
       "abbr": ""
     },
-    "uslimi": {
-      "code": "limi",
-      "market": "us",
-      "type": "美",
-      "name": "Themes Lithium & Battery Metal Miners ETF",
-      "name_en": "Themes Lithium & Battery Metal Miners ETF",
-      "py": "",
-      "abbr": ""
-    },
     "uslimn": {
       "code": "limn",
       "market": "us",
@@ -62854,6 +63052,15 @@
       "type": "美",
       "name": "Global X Long-Term Treasury Ladder ETF",
       "name_en": "Global X Long-Term Treasury Ladder ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usllma": {
+      "code": "llma",
+      "market": "us",
+      "type": "美",
+      "name": "Global X LLM ETF",
+      "name_en": "Global X LLM ETF",
       "py": "",
       "abbr": ""
     },
@@ -63343,6 +63550,15 @@
       "py": "",
       "abbr": ""
     },
+    "usloviu": {
+      "code": "loviu",
+      "market": "us",
+      "type": "美",
+      "name": "Live Oak Acquisition Corp. VI - Units",
+      "name_en": "Live Oak Acquisition Corp. VI - Units",
+      "py": "",
+      "abbr": ""
+    },
     "uslow": {
       "code": "low",
       "market": "us",
@@ -63493,6 +63709,15 @@
       "type": "美",
       "name": "Long Pond Real Estate Select ETF",
       "name_en": "Long Pond Real Estate Select ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "uslpsv": {
+      "code": "lpsv",
+      "market": "us",
+      "type": "美",
+      "name": "Lone Peak SMID Value ETF",
+      "name_en": "Lone Peak SMID Value ETF",
       "py": "",
       "abbr": ""
     },
@@ -64139,8 +64364,17 @@
       "code": "lumn",
       "market": "us",
       "type": "美",
-      "name": "Lumen Technologies, Inc. Common Stock",
-      "name_en": "Lumen Technologies, Inc. Common Stock",
+      "name": "Lumen Technologies, Inc.  - Common Stock",
+      "name_en": "Lumen Technologies, Inc.  - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "uslunc": {
+      "code": "lunc",
+      "market": "us",
+      "type": "美",
+      "name": "Longnook Uncommon Compounders ETF",
+      "name_en": "Longnook Uncommon Compounders ETF",
       "py": "",
       "abbr": ""
     },
@@ -64567,15 +64801,6 @@
       "py": "maafangchanxintuo",
       "abbr": "maafcxt"
     },
-    "usmaa_i": {
-      "code": "maa_i",
-      "market": "us",
-      "type": "美",
-      "name": "MAA房产信托(优先股)",
-      "name_en": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",
-      "py": "maafangchanxintuo(youxiangu)",
-      "abbr": "maafcxt(yxg)"
-    },
     "usmaas": {
       "code": "maas",
       "market": "us",
@@ -64773,15 +64998,6 @@
       "name_en": "Monarch Ambassador Income Index ETF",
       "py": "",
       "abbr": ""
-    },
-    "usmamk": {
-      "code": "mamk",
-      "market": "us",
-      "type": "美",
-      "name": "迈克丽斯",
-      "name_en": "MaxsMaking Inc. - Class A Ordinary Shares",
-      "py": "maikelisi",
-      "abbr": "mkls"
     },
     "usmamo": {
       "code": "mamo",
@@ -66344,8 +66560,8 @@
       "code": "metv",
       "market": "us",
       "type": "美",
-      "name": "Roundhill Ball Metaverse ETF",
-      "name_en": "Roundhill Ball Metaverse ETF",
+      "name": "Roundhill Metaverse ETF",
+      "name_en": "Roundhill Metaverse ETF",
       "py": "",
       "abbr": ""
     },
@@ -66727,6 +66943,15 @@
       "py": "xitujituan",
       "abbr": "xtjt"
     },
+    "usmgin": {
+      "code": "mgin",
+      "market": "us",
+      "type": "美",
+      "name": "Man Active Global Infrastructure ETF",
+      "name_en": "Man Active Global Infrastructure ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmgk": {
       "code": "mgk",
       "market": "us",
@@ -67100,8 +67325,8 @@
       "code": "mid",
       "market": "us",
       "type": "美",
-      "name": "American Century Mid Cap Growth Impact ETF",
-      "name_en": "American Century Mid Cap Growth Impact ETF",
+      "name": "American Century Mid Cap Growth Insights ETF",
+      "name_en": "American Century Mid Cap Growth Insights ETF",
       "py": "",
       "abbr": ""
     },
@@ -67762,6 +67987,15 @@
       "py": "",
       "abbr": ""
     },
+    "usmlrg": {
+      "code": "mlrg",
+      "market": "us",
+      "type": "美",
+      "name": "iShares MSCI USA ETF",
+      "name_en": "iShares MSCI USA ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmlss": {
       "code": "mlss",
       "market": "us",
@@ -67849,6 +68083,24 @@
       "type": "美",
       "name": "MiniMed Group, Inc. - Common Stock",
       "name_en": "MiniMed Group, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usmmedv": {
+      "code": "mmedv",
+      "market": "us",
+      "type": "美",
+      "name": "MiniMed Group, Inc. - Common Stock When Issued",
+      "name_en": "MiniMed Group, Inc. - Common Stock When Issued",
+      "py": "",
+      "abbr": ""
+    },
+    "usmmhi": {
+      "code": "mmhi",
+      "market": "us",
+      "type": "美",
+      "name": "NYLIM MacKay Muni High Income ETF",
+      "name_en": "NYLIM MacKay Muni High Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -68032,6 +68284,15 @@
       "py": "",
       "abbr": ""
     },
+    "usmn": {
+      "code": "mn",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi MANGOS ETF",
+      "name_en": "Corgi MANGOS ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmna": {
       "code": "mna",
       "market": "us",
@@ -68077,12 +68338,30 @@
       "py": "",
       "abbr": ""
     },
+    "usmngb": {
+      "code": "mngb",
+      "market": "us",
+      "type": "美",
+      "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF",
+      "name_en": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmngu": {
       "code": "mngu",
       "market": "us",
       "type": "美",
       "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs",
       "name_en": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs",
+      "py": "",
+      "abbr": ""
+    },
+    "usmngz": {
+      "code": "mngz",
+      "market": "us",
+      "type": "美",
+      "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF",
+      "name_en": "Yorkville America 2X Long MANGOS Plus Daily Target ETF",
       "py": "",
       "abbr": ""
     },
@@ -68128,15 +68407,6 @@
       "type": "美",
       "name": "Monro, Inc.  - Common Stock",
       "name_en": "Monro, Inc.  - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usmnrs": {
-      "code": "mnrs",
-      "market": "us",
-      "type": "美",
-      "name": "Grayscale Bitcoin Miners ETF",
-      "name_en": "Grayscale Bitcoin Miners ETF",
       "py": "",
       "abbr": ""
     },
@@ -69373,6 +69643,15 @@
       "py": "",
       "abbr": ""
     },
+    "usmsml": {
+      "code": "msml",
+      "market": "us",
+      "type": "美",
+      "name": "iShares MSCI USA Small-Cap ETF",
+      "name_en": "iShares MSCI USA Small-Cap ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmsmr": {
       "code": "msmr",
       "market": "us",
@@ -69598,12 +69877,30 @@
       "py": "",
       "abbr": ""
     },
+    "usmtak": {
+      "code": "mtak",
+      "market": "us",
+      "type": "美",
+      "name": "Market Technology Acquisition Corp - Class A Ordinary Shares",
+      "name_en": "Market Technology Acquisition Corp - Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "usmtaku": {
       "code": "mtaku",
       "market": "us",
       "type": "美",
       "name": "Market Technology Acquisition Corp - Unit",
       "name_en": "Market Technology Acquisition Corp - Unit",
+      "py": "",
+      "abbr": ""
+    },
+    "usmtakw": {
+      "code": "mtakw",
+      "market": "us",
+      "type": "美",
+      "name": "Market Technology Acquisition Corp - Warrants",
+      "name_en": "Market Technology Acquisition Corp - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -70192,15 +70489,6 @@
       "py": "",
       "abbr": ""
     },
-    "usmusi": {
-      "code": "musi",
-      "market": "us",
-      "type": "美",
-      "name": "American Century Multisector Income ETF",
-      "name_en": "American Century Multisector Income ETF",
-      "py": "",
-      "abbr": ""
-    },
     "usmusq": {
       "code": "musq",
       "market": "us",
@@ -70234,6 +70522,15 @@
       "type": "美",
       "name": "McEwen Inc. Common Stock",
       "name_en": "McEwen Inc. Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usmuy": {
+      "code": "muy",
+      "market": "us",
+      "type": "美",
+      "name": "YieldMax MU Option Income Strategy ETF",
+      "name_en": "YieldMax MU Option Income Strategy ETF",
       "py": "",
       "abbr": ""
     },
@@ -70597,6 +70894,15 @@
       "py": "",
       "abbr": ""
     },
+    "usmycp": {
+      "code": "mycp",
+      "market": "us",
+      "type": "美",
+      "name": "State Street My2036 Corporate Bond ETF",
+      "name_en": "State Street My2036 Corporate Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmye": {
       "code": "mye",
       "market": "us",
@@ -70669,6 +70975,15 @@
       "py": "",
       "abbr": ""
     },
+    "usmyhf": {
+      "code": "myhf",
+      "market": "us",
+      "type": "美",
+      "name": "State Street My2032 High Yield Corporate Bond ETF",
+      "name_en": "State Street My2032 High Yield Corporate Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usmyi": {
       "code": "myi",
       "market": "us",
@@ -70738,6 +71053,15 @@
       "type": "美",
       "name": "State Street My2031 Municipal Bond ETF",
       "name_en": "State Street My2031 Municipal Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usmyml": {
+      "code": "myml",
+      "market": "us",
+      "type": "美",
+      "name": "State Street My2032 Municipal Bond ETF",
+      "name_en": "State Street My2032 Municipal Bond ETF",
       "py": "",
       "abbr": ""
     },
@@ -71875,6 +72199,15 @@
       "py": "dongbeishequyinhang",
       "abbr": "dbsqyh"
     },
+    "usneck": {
+      "code": "neck",
+      "market": "us",
+      "type": "美",
+      "name": "xETFs AI Bottlenecks ETF",
+      "name_en": "xETFs AI Bottlenecks ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usnee": {
       "code": "nee",
       "market": "us",
@@ -72271,6 +72604,15 @@
       "py": "",
       "abbr": ""
     },
+    "usnfegp": {
+      "code": "nfegp",
+      "market": "us",
+      "type": "美",
+      "name": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock",
+      "name_en": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usnfg": {
       "code": "nfg",
       "market": "us",
@@ -72532,33 +72874,6 @@
       "py": "",
       "abbr": ""
     },
-    "usnhic": {
-      "code": "nhic",
-      "market": "us",
-      "type": "美",
-      "name": "NewHold Investment Corp III - Class A Ordinary shares",
-      "name_en": "NewHold Investment Corp III - Class A Ordinary shares",
-      "py": "",
-      "abbr": ""
-    },
-    "usnhicu": {
-      "code": "nhicu",
-      "market": "us",
-      "type": "美",
-      "name": "NewHold Investment Corp III - Units",
-      "name_en": "NewHold Investment Corp III - Units",
-      "py": "",
-      "abbr": ""
-    },
-    "usnhicw": {
-      "code": "nhicw",
-      "market": "us",
-      "type": "美",
-      "name": "NewHold Investment Corp III - Warrants",
-      "name_en": "NewHold Investment Corp III - Warrants",
-      "py": "",
-      "abbr": ""
-    },
     "usnhiv": {
       "code": "nhiv",
       "market": "us",
@@ -72592,15 +72907,6 @@
       "type": "美",
       "name": "National Healthcare Properties, Inc. - Class A Common Stock",
       "name_en": "National Healthcare Properties, Inc. - Class A Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usnhpbp": {
-      "code": "nhpbp",
-      "market": "us",
-      "type": "美",
-      "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
-      "name_en": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
       "py": "",
       "abbr": ""
     },
@@ -73009,15 +73315,6 @@
       "py": "",
       "abbr": ""
     },
-    "usnly_i": {
-      "code": "nly_i",
-      "market": "us",
-      "type": "美",
-      "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "name_en": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usnly_j": {
       "code": "nly_j",
       "market": "us",
@@ -73096,15 +73393,6 @@
       "type": "美",
       "name": "Nuveen Municipal Credit Opportunities Fund Common Shares",
       "name_en": "Nuveen Municipal Credit Opportunities Fund Common Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "usnmcor": {
-      "code": "nmcor",
-      "market": "us",
-      "type": "美",
-      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
-      "name_en": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
       "py": "",
       "abbr": ""
     },
@@ -73900,6 +74188,15 @@
       "py": "",
       "abbr": ""
     },
+    "usnrr": {
+      "code": "nrr",
+      "market": "us",
+      "type": "美",
+      "name": "Common Shares of Beneficial Interest of Bitwise NEAR ETF",
+      "name_en": "Common Shares of Beneficial Interest of Bitwise NEAR ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usnrsh": {
       "code": "nrsh",
       "market": "us",
@@ -74116,12 +74413,21 @@
       "py": "napukeanquanjishu",
       "abbr": "npkaqjs"
     },
-    "usnsts": {
-      "code": "nsts",
+    "usnstr": {
+      "code": "nstr",
       "market": "us",
       "type": "美",
-      "name": "NSTS Bancorp, Inc. - Common Stock",
-      "name_en": "NSTS Bancorp, Inc. - Common Stock",
+      "name": "NorthStar Earth & Space Enterprises, Inc. Common Shares",
+      "name_en": "NorthStar Earth & Space Enterprises, Inc. Common Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usnstr_ws": {
+      "code": "nstr_ws",
+      "market": "us",
+      "type": "美",
+      "name": "NorthStar Earth & Space Enterprises, Inc. Warrants",
+      "name_en": "NorthStar Earth & Space Enterprises, Inc. Warrants",
       "py": "",
       "abbr": ""
     },
@@ -74266,15 +74572,6 @@
       "type": "美",
       "name": "Nutriband Inc. - Common Stock",
       "name_en": "Nutriband Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usntrbw": {
-      "code": "ntrbw",
-      "market": "us",
-      "type": "美",
-      "name": "Nutriband Inc. - Warrant",
-      "name_en": "Nutriband Inc. - Warrant",
       "py": "",
       "abbr": ""
     },
@@ -74554,6 +74851,15 @@
       "type": "美",
       "name": "Nuveen ESG High Yield Corporate Bond ETF",
       "name_en": "Nuveen ESG High Yield Corporate Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usnuib": {
+      "code": "nuib",
+      "market": "us",
+      "type": "美",
+      "name": "Nuveen Impact Bond ETF",
+      "name_en": "Nuveen Impact Bond ETF",
       "py": "",
       "abbr": ""
     },
@@ -74998,24 +75304,6 @@
       "py": "",
       "abbr": ""
     },
-    "usnvni": {
-      "code": "nvni",
-      "market": "us",
-      "type": "美",
-      "name": "Nvni Group Limited - Ordinary Shares",
-      "name_en": "Nvni Group Limited - Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "usnvniw": {
-      "code": "nvniw",
-      "market": "us",
-      "type": "美",
-      "name": "Nvni Group Limited - Warrants",
-      "name_en": "Nvni Group Limited - Warrants",
-      "py": "",
-      "abbr": ""
-    },
     "usnvno": {
       "code": "nvno",
       "market": "us",
@@ -75193,6 +75481,24 @@
       "type": "美",
       "name": "Northwest Bancshares, Inc. - Common Stock",
       "name_en": "Northwest Bancshares, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usnwcl": {
+      "code": "nwcl",
+      "market": "us",
+      "type": "美",
+      "name": "newcleo plc - Ordinary Shares",
+      "name_en": "newcleo plc - Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usnwclw": {
+      "code": "nwclw",
+      "market": "us",
+      "type": "美",
+      "name": "newcleo plc - Warrants",
+      "name_en": "newcleo plc - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -75772,6 +76078,15 @@
       "py": "",
       "abbr": ""
     },
+    "usoakl": {
+      "code": "oakl",
+      "market": "us",
+      "type": "美",
+      "name": "Oakmark U.S. Concentrated ETF",
+      "name_en": "Oakmark U.S. Concentrated ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usoakm": {
       "code": "oakm",
       "market": "us",
@@ -76060,12 +76375,39 @@
       "py": "",
       "abbr": ""
     },
+    "usoclt": {
+      "code": "oclt",
+      "market": "us",
+      "type": "美",
+      "name": "OceanLight Acquisition Corporation - Ordinary Shares",
+      "name_en": "OceanLight Acquisition Corporation - Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usocltr": {
+      "code": "ocltr",
+      "market": "us",
+      "type": "美",
+      "name": "OceanLight Acquisition Corporation - Rights",
+      "name_en": "OceanLight Acquisition Corporation - Rights",
+      "py": "",
+      "abbr": ""
+    },
     "usocltu": {
       "code": "ocltu",
       "market": "us",
       "type": "美",
       "name": "OceanLight Acquisition Corporation - Units",
       "name_en": "OceanLight Acquisition Corporation - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "usocltw": {
+      "code": "ocltw",
+      "market": "us",
+      "type": "美",
+      "name": "OceanLight Acquisition Corporation - Warrants",
+      "name_en": "OceanLight Acquisition Corporation - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -76105,6 +76447,15 @@
       "py": "",
       "abbr": ""
     },
+    "usoct": {
+      "code": "oct",
+      "market": "us",
+      "type": "美",
+      "name": "VanEck U.S. Equity Buffer ETF - October",
+      "name_en": "VanEck U.S. Equity Buffer ETF - October",
+      "py": "",
+      "abbr": ""
+    },
     "usoctb": {
       "code": "octb",
       "market": "us",
@@ -76120,6 +76471,15 @@
       "type": "美",
       "name": "Innovator Premium Income 20 Barrier ETF - October",
       "name_en": "Innovator Premium Income 20 Barrier ETF - October",
+      "py": "",
+      "abbr": ""
+    },
+    "usocti": {
+      "code": "octi",
+      "market": "us",
+      "type": "美",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Oct ETF",
+      "name_en": "AllianzIM International Equity Buffer15 Uncapped Oct ETF",
       "py": "",
       "abbr": ""
     },
@@ -76552,6 +76912,15 @@
       "type": "美",
       "name": "Invesco Municipal Income Opportunities Trust Common Stock",
       "name_en": "Invesco Municipal Income Opportunities Trust Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usoig": {
+      "code": "oig",
+      "market": "us",
+      "type": "美",
+      "name": "Orion180 Insurance Group Inc. - Class A Common Stock",
+      "name_en": "Orion180 Insurance Group Inc. - Class A Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -77077,6 +77446,15 @@
       "py": "",
       "abbr": ""
     },
+    "usonen": {
+      "code": "onen",
+      "market": "us",
+      "type": "美",
+      "name": "ONE Nuclear Energy Inc. - Common Stock",
+      "name_en": "ONE Nuclear Energy Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usoneo": {
       "code": "oneo",
       "market": "us",
@@ -77419,6 +77797,15 @@
       "py": "",
       "abbr": ""
     },
+    "usopnw": {
+      "code": "opnw",
+      "market": "us",
+      "type": "美",
+      "name": "OpenWorld, Inc. - Common Stock",
+      "name_en": "OpenWorld, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usopp": {
       "code": "opp",
       "market": "us",
@@ -77515,6 +77902,15 @@
       "type": "美",
       "name": "Optimi Health Corp. - Common Shares",
       "name_en": "Optimi Health Corp. - Common Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usopto": {
+      "code": "opto",
+      "market": "us",
+      "type": "美",
+      "name": "Tuttle Capital Photonics Income Blast ETF",
+      "name_en": "Tuttle Capital Photonics Income Blast ETF",
       "py": "",
       "abbr": ""
     },
@@ -79075,6 +79471,15 @@
       "py": "",
       "abbr": ""
     },
+    "uspaxgu": {
+      "code": "paxgu",
+      "market": "us",
+      "type": "美",
+      "name": "Pine Tree Acquisition Corp. - Units",
+      "name_en": "Pine Tree Acquisition Corp. - Units",
+      "py": "",
+      "abbr": ""
+    },
     "uspaxs": {
       "code": "paxs",
       "market": "us",
@@ -79207,6 +79612,15 @@
       "type": "美",
       "name": "PGIM S&P 500 Buffer 20 ETF - August",
       "name_en": "PGIM S&P 500 Buffer 20 ETF - August",
+      "py": "",
+      "abbr": ""
+    },
+    "uspbcs": {
+      "code": "pbcs",
+      "market": "us",
+      "type": "美",
+      "name": "Portfolio Building Block World Consumer Staples ETF",
+      "name_en": "Portfolio Building Block World Consumer Staples ETF",
       "py": "",
       "abbr": ""
     },
@@ -79552,6 +79966,15 @@
       "py": "",
       "abbr": ""
     },
+    "uspbub": {
+      "code": "pbub",
+      "market": "us",
+      "type": "美",
+      "name": "Portfolio Building Block US Banks ETF",
+      "name_en": "Portfolio Building Block US Banks ETF",
+      "py": "",
+      "abbr": ""
+    },
     "uspbus": {
       "code": "pbus",
       "market": "us",
@@ -79567,6 +79990,15 @@
       "type": "美",
       "name": "Invesco WilderHill Clean Energy ETF",
       "name_en": "Invesco WilderHill Clean Energy ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "uspbwn": {
+      "code": "pbwn",
+      "market": "us",
+      "type": "美",
+      "name": "Portfolio Building Block World Ex US Industrials ETF",
+      "name_en": "Portfolio Building Block World Ex US Industrials ETF",
       "py": "",
       "abbr": ""
     },
@@ -79873,6 +80305,15 @@
       "type": "美",
       "name": "Principal Equity Premium Income ETF",
       "name_en": "Principal Equity Premium Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "uspcpc": {
+      "code": "pcpc",
+      "market": "us",
+      "type": "美",
+      "name": "Porter & Company Property & Casualty Index ETF",
+      "name_en": "Porter & Company Property & Casualty Index ETF",
       "py": "",
       "abbr": ""
     },
@@ -80206,15 +80647,6 @@
       "type": "美",
       "name": "Palladyne AI Corp. - Common stock",
       "name_en": "Palladyne AI Corp. - Common stock",
-      "py": "",
-      "abbr": ""
-    },
-    "uspdynw": {
-      "code": "pdynw",
-      "market": "us",
-      "type": "美",
-      "name": "Palladyne AI Corp. - Warrant",
-      "name_en": "Palladyne AI Corp. - Warrant",
       "py": "",
       "abbr": ""
     },
@@ -80800,6 +81232,15 @@
       "type": "美",
       "name": "PGIM Floating Rate Income ETF",
       "name_en": "PGIM Floating Rate Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "uspfrx": {
+      "code": "pfrx",
+      "market": "us",
+      "type": "美",
+      "name": "Putnam Focused U.S. Research ETF",
+      "name_en": "Putnam Focused U.S. Research ETF",
       "py": "",
       "abbr": ""
     },
@@ -81919,15 +82360,6 @@
       "py": "",
       "abbr": ""
     },
-    "usplts": {
-      "code": "plts",
-      "market": "us",
-      "type": "美",
-      "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
-      "name_en": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
     "uspltu": {
       "code": "pltu",
       "market": "us",
@@ -82450,12 +82882,30 @@
       "py": "sikaimengtaiyangneng",
       "abbr": "skmtyn"
     },
+    "uspnaq": {
+      "code": "pnaq",
+      "market": "us",
+      "type": "美",
+      "name": "Pinnacle Acquisition Corporation Class A Ordinary Shares",
+      "name_en": "Pinnacle Acquisition Corporation Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "uspnaq_u": {
       "code": "pnaq_u",
       "market": "us",
       "type": "美",
       "name": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
       "name_en": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
+      "py": "",
+      "abbr": ""
+    },
+    "uspnaqr": {
+      "code": "pnaqr",
+      "market": "us",
+      "type": "美",
+      "name": "Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share",
+      "name_en": "Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share",
       "py": "",
       "abbr": ""
     },
@@ -82755,6 +83205,15 @@
       "name_en": "Portland General Electric Co Common Stock",
       "py": "botelantongyongdianqi",
       "abbr": "btltydq"
+    },
+    "usport_u": {
+      "code": "port_u",
+      "market": "us",
+      "type": "美",
+      "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "name_en": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "py": "",
+      "abbr": ""
     },
     "uspost": {
       "code": "post",
@@ -83111,8 +83570,8 @@
       "code": "prae",
       "market": "us",
       "type": "美",
-      "name": "PlanRock Alternative Growth ETF",
-      "name_en": "PlanRock Alternative Growth ETF",
+      "name": "PlanRock Equity Plus Alternatives ETF",
+      "name_en": "PlanRock Equity Plus Alternatives ETF",
       "py": "",
       "abbr": ""
     },
@@ -84133,15 +84592,6 @@
       "py": "",
       "abbr": ""
     },
-    "uspsky": {
-      "code": "psky",
-      "market": "us",
-      "type": "美",
-      "name": "Paramount Skydance Corporation - Class B Common Stock",
-      "name_en": "Paramount Skydance Corporation - Class B Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "uspsl": {
       "code": "psl",
       "market": "us",
@@ -84758,8 +85208,8 @@
       "code": "pusa",
       "market": "us",
       "type": "美",
-      "name": "Aureus Greenway Holdings Inc. - Common Stock",
-      "name_en": "Aureus Greenway Holdings Inc. - Common Stock",
+      "name": "Powerus Corporation - Common Stock",
+      "name_en": "Powerus Corporation - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -84904,6 +85354,15 @@
       "type": "美",
       "name": "Powerlaw Corp. - Common Stock",
       "name_en": "Powerlaw Corp. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "uspwrx": {
+      "code": "pwrx",
+      "market": "us",
+      "type": "美",
+      "name": "Westwood Salient Enhanced Power & Infrastructure ETF",
+      "name_en": "Westwood Salient Enhanced Power & Infrastructure ETF",
       "py": "",
       "abbr": ""
     },
@@ -86176,6 +86635,15 @@
       "py": "",
       "abbr": ""
     },
+    "usqqbf": {
+      "code": "qqbf",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF",
+      "name_en": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usqqdn": {
       "code": "qqdn",
       "market": "us",
@@ -86209,6 +86677,15 @@
       "type": "美",
       "name": "Invesco QQQ Hedged Advantage ETF",
       "name_en": "Invesco QQQ Hedged Advantage ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usqqi": {
+      "code": "qqi",
+      "market": "us",
+      "type": "美",
+      "name": "Invesco Nasdaq International Innovators 100 ETF",
+      "name_en": "Invesco Nasdaq International Innovators 100 ETF",
       "py": "",
       "abbr": ""
     },
@@ -86272,6 +86749,15 @@
       "type": "美",
       "name": "ProShares Nasdaq-100 Dorsey Wright Momentum ETF",
       "name_en": "ProShares Nasdaq-100 Dorsey Wright Momentum ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usqqqb": {
+      "code": "qqqb",
+      "market": "us",
+      "type": "美",
+      "name": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF",
+      "name_en": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF",
       "py": "",
       "abbr": ""
     },
@@ -86392,6 +86878,15 @@
       "py": "",
       "abbr": ""
     },
+    "usqqse": {
+      "code": "qqse",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - September Series",
+      "name_en": "Corgi Growth & Technology 15% Structured Buffer ETF - September Series",
+      "py": "",
+      "abbr": ""
+    },
     "usqqup": {
       "code": "qqup",
       "market": "us",
@@ -86473,21 +86968,21 @@
       "py": "",
       "abbr": ""
     },
-    "usqrvo": {
-      "code": "qrvo",
-      "market": "us",
-      "type": "美",
-      "name": "Qorvo, Inc. - Common Stock",
-      "name_en": "Qorvo, Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usqs": {
       "code": "qs",
       "market": "us",
       "type": "美",
       "name": "QuantumScape Corporation - Common Stock",
       "name_en": "QuantumScape Corporation - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usqse": {
+      "code": "qse",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - September Series",
+      "name_en": "Corgi Growth & Technology 10% Structured Buffer ETF - September Series",
       "py": "",
       "abbr": ""
     },
@@ -88534,24 +89029,6 @@
       "py": "",
       "abbr": ""
     },
-    "usrfdi": {
-      "code": "rfdi",
-      "market": "us",
-      "type": "美",
-      "name": "First Trust RiverFront Dynamic Developed International ETF",
-      "name_en": "First Trust RiverFront Dynamic Developed International ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "usrfem": {
-      "code": "rfem",
-      "market": "us",
-      "type": "美",
-      "name": "First Trust RiverFront Dynamic Emerging Markets ETF",
-      "name_en": "First Trust RiverFront Dynamic Emerging Markets ETF",
-      "py": "",
-      "abbr": ""
-    },
     "usrffc": {
       "code": "rffc",
       "market": "us",
@@ -88862,8 +89339,8 @@
       "code": "rhrx",
       "market": "us",
       "type": "美",
-      "name": "RH Tactical Rotation ETF",
-      "name_en": "RH Tactical Rotation ETF",
+      "name": "Adaptive Tactical Rotation ETF",
+      "name_en": "Adaptive Tactical Rotation ETF",
       "py": "",
       "abbr": ""
     },
@@ -88993,15 +89470,6 @@
       "py": "",
       "abbr": ""
     },
-    "usrilyn": {
-      "code": "rilyn",
-      "market": "us",
-      "type": "美",
-      "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
-      "name_en": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
-      "py": "",
-      "abbr": ""
-    },
     "usrilyp": {
       "code": "rilyp",
       "market": "us",
@@ -89053,6 +89521,15 @@
       "type": "美",
       "name": "iShares MSCI Global Gold Miners ETF",
       "name_en": "iShares MSCI Global Gold Miners ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usrink": {
+      "code": "rink",
+      "market": "us",
+      "type": "美",
+      "name": "Russell Investments Multisector Bond ETF",
+      "name_en": "Russell Investments Multisector Bond ETF",
       "py": "",
       "abbr": ""
     },
@@ -89191,15 +89668,6 @@
       "py": "",
       "abbr": ""
     },
-    "usritr": {
-      "code": "ritr",
-      "market": "us",
-      "type": "美",
-      "name": "Reitar Logtech Holdings Limited - Ordinary shares",
-      "name_en": "Reitar Logtech Holdings Limited - Ordinary shares",
-      "py": "",
-      "abbr": ""
-    },
     "usriv": {
       "code": "riv",
       "market": "us",
@@ -89233,15 +89701,6 @@
       "type": "美",
       "name": "Rivian Automotive, Inc. - Class A Common Stock",
       "name_en": "Rivian Automotive, Inc. - Class A Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usrivr": {
-      "code": "rivr",
-      "market": "us",
-      "type": "美",
-      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
-      "name_en": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
       "py": "",
       "abbr": ""
     },
@@ -89740,12 +90199,30 @@
       "py": "",
       "abbr": ""
     },
+    "usrnaq": {
+      "code": "rnaq",
+      "market": "us",
+      "type": "美",
+      "name": "Rainier Acquisition Corporation - Class A Ordinary Shares",
+      "name_en": "Rainier Acquisition Corporation - Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "usrnaqu": {
       "code": "rnaqu",
       "market": "us",
       "type": "美",
       "name": "Rainier Acquisition Corporation - Units",
       "name_en": "Rainier Acquisition Corporation - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "usrnaqw": {
+      "code": "rnaqw",
+      "market": "us",
+      "type": "美",
+      "name": "Rainier Acquisition Corporation - Warrants",
+      "name_en": "Rainier Acquisition Corporation - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -90802,6 +91279,15 @@
       "py": "",
       "abbr": ""
     },
+    "usrtsn": {
+      "code": "rtsn",
+      "market": "us",
+      "type": "美",
+      "name": "Retension Pharmaceuticals, Inc. - Common Stock",
+      "name_en": "Retension Pharmaceuticals, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usrtx": {
       "code": "rtx",
       "market": "us",
@@ -91069,6 +91555,15 @@
       "type": "美",
       "name": "Runway Growth Finance Corp. - 7.50% Notes due 2027",
       "name_en": "Runway Growth Finance Corp. - 7.50% Notes due 2027",
+      "py": "",
+      "abbr": ""
+    },
+    "usrwaym": {
+      "code": "rwaym",
+      "market": "us",
+      "type": "美",
+      "name": "Runway Growth Finance Corp. - 7.75% Notes Due 2031",
+      "name_en": "Runway Growth Finance Corp. - 7.75% Notes Due 2031",
       "py": "",
       "abbr": ""
     },
@@ -91405,6 +91900,15 @@
       "py": "",
       "abbr": ""
     },
+    "usrzai": {
+      "code": "rzai",
+      "market": "us",
+      "type": "美",
+      "name": "Roze AI Inc. - Common Shares",
+      "name_en": "Roze AI Inc. - Common Shares",
+      "py": "",
+      "abbr": ""
+    },
     "usrzc": {
       "code": "rzc",
       "market": "us",
@@ -91729,12 +92233,30 @@
       "py": "",
       "abbr": ""
     },
+    "ussaiq": {
+      "code": "saiq",
+      "market": "us",
+      "type": "美",
+      "name": "WISeSat.Space Holdings Corp. - Ordinary Shares",
+      "name_en": "WISeSat.Space Holdings Corp. - Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "ussaj": {
       "code": "saj",
       "market": "us",
       "type": "美",
       "name": "Saratoga Investment Corp 8.00% Notes due 2027",
       "name_en": "Saratoga Investment Corp 8.00% Notes due 2027",
+      "py": "",
+      "abbr": ""
+    },
+    "ussali": {
+      "code": "sali",
+      "market": "us",
+      "type": "美",
+      "name": "Schroders US Autocallable Ladder Income ETF",
+      "name_en": "Schroders US Autocallable Ladder Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -91888,15 +92410,6 @@
       "type": "美",
       "name": "M.D. Sass Concentrated Value ETF",
       "name_en": "M.D. Sass Concentrated Value ETF",
-      "py": "",
-      "abbr": ""
-    },
-    "ussat": {
-      "code": "sat",
-      "market": "us",
-      "type": "美",
-      "name": "Saratoga Investment Corp 6.00% Notes due 2027",
-      "name_en": "Saratoga Investment Corp 6.00% Notes due 2027",
       "py": "",
       "abbr": ""
     },
@@ -92260,33 +92773,6 @@
       "py": "xingbake",
       "abbr": "xbk"
     },
-    "ussbxd": {
-      "code": "sbxd",
-      "market": "us",
-      "type": "美",
-      "name": "SilverBox Corp IV Class A Ordinary Shares",
-      "name_en": "SilverBox Corp IV Class A Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "ussbxd_u": {
-      "code": "sbxd_u",
-      "market": "us",
-      "type": "美",
-      "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-      "name_en": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-      "py": "",
-      "abbr": ""
-    },
-    "ussbxd_ws": {
-      "code": "sbxd_ws",
-      "market": "us",
-      "type": "美",
-      "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
-      "name_en": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
-      "py": "",
-      "abbr": ""
-    },
     "ussbxe": {
       "code": "sbxe",
       "market": "us",
@@ -92350,12 +92836,39 @@
       "py": "",
       "abbr": ""
     },
+    "usscat": {
+      "code": "scat",
+      "market": "us",
+      "type": "美",
+      "name": "Southern Cross Acquisition II Corp. - Ordinary Shares",
+      "name_en": "Southern Cross Acquisition II Corp. - Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
+    "usscatr": {
+      "code": "scatr",
+      "market": "us",
+      "type": "美",
+      "name": "Southern Cross Acquisition II Corp. - Rights",
+      "name_en": "Southern Cross Acquisition II Corp. - Rights",
+      "py": "",
+      "abbr": ""
+    },
     "usscatu": {
       "code": "scatu",
       "market": "us",
       "type": "美",
       "name": "Southern Cross Acquisition II Corp. - Units",
       "name_en": "Southern Cross Acquisition II Corp. - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "usscatw": {
+      "code": "scatw",
+      "market": "us",
+      "type": "美",
+      "name": "Southern Cross Acquisition II Corp. - Warrants",
+      "name_en": "Southern Cross Acquisition II Corp. - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -92989,6 +93502,15 @@
       "py": "",
       "abbr": ""
     },
+    "usscse": {
+      "code": "scse",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - September Series",
+      "name_en": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - September Series",
+      "py": "",
+      "abbr": ""
+    },
     "ussctx": {
       "code": "sctx",
       "market": "us",
@@ -93412,6 +93934,15 @@
       "py": "",
       "abbr": ""
     },
+    "usseca": {
+      "code": "seca",
+      "market": "us",
+      "type": "美",
+      "name": "Main Active Rotation ETF",
+      "name_en": "Main Active Rotation ETF",
+      "py": "",
+      "abbr": ""
+    },
     "ussecr": {
       "code": "secr",
       "market": "us",
@@ -93652,6 +94183,15 @@
       "type": "美",
       "name": "Senseonics Holdings, Inc. - Common Stock",
       "name_en": "Senseonics Holdings, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "ussepc": {
+      "code": "sepc",
+      "market": "us",
+      "type": "美",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - September Series",
+      "name_en": "Corgi U.S. Equities 10% Structured Buffer ETF - September Series",
       "py": "",
       "abbr": ""
     },
@@ -95374,6 +95914,15 @@
       "py": "",
       "abbr": ""
     },
+    "usskyd": {
+      "code": "skyd",
+      "market": "us",
+      "type": "美",
+      "name": "Skydance Corporation Class B Common Stock",
+      "name_en": "Skydance Corporation Class B Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usskye": {
       "code": "skye",
       "market": "us",
@@ -95698,15 +96247,6 @@
       "py": "",
       "abbr": ""
     },
-    "usslp": {
-      "code": "slp",
-      "market": "us",
-      "type": "美",
-      "name": "Simulations Plus, Inc. - Common Stock",
-      "name_en": "Simulations Plus, Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usslqd": {
       "code": "slqd",
       "market": "us",
@@ -95778,6 +96318,15 @@
       "name_en": "iShares Silver Trust",
       "py": "baiyinetf-ishares",
       "abbr": "byetf-ishares"
+    },
+    "usslvi": {
+      "code": "slvi",
+      "market": "us",
+      "type": "美",
+      "name": "NEOS Silver High Income ETF",
+      "name_en": "NEOS Silver High Income ETF",
+      "py": "",
+      "abbr": ""
     },
     "usslvm": {
       "code": "slvm",
@@ -95976,15 +96525,6 @@
       "name_en": "Corgi SMCI 2x Daily ETF",
       "py": "erbeizuoduochaoweidiannaoetf-corgi",
       "abbr": "ebzdcwdnetf-corgi"
-    },
-    "ussmcf": {
-      "code": "smcf",
-      "market": "us",
-      "type": "美",
-      "name": "Themes US Small Cap Cash Flow Champions ETF",
-      "name_en": "Themes US Small Cap Cash Flow Champions ETF",
-      "py": "",
-      "abbr": ""
     },
     "ussmci": {
       "code": "smci",
@@ -96433,6 +96973,15 @@
       "type": "美",
       "name": "Sanara MedTech Inc. - Common Stock",
       "name_en": "Sanara MedTech Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "ussmtj": {
+      "code": "smtj",
+      "market": "us",
+      "type": "美",
+      "name": "Synera Funds Takumi+ ETF",
+      "name_en": "Synera Funds Takumi+ ETF",
       "py": "",
       "abbr": ""
     },
@@ -96913,15 +97462,6 @@
       "py": "sainuofei",
       "abbr": "snf"
     },
-    "ussnyr": {
-      "code": "snyr",
-      "market": "us",
-      "type": "美",
-      "name": "Synergy CHC Corp. - Common Stock",
-      "name_en": "Synergy CHC Corp. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
     "usso": {
       "code": "so",
       "market": "us",
@@ -96946,15 +97486,6 @@
       "type": "美",
       "name": "South Bow Corporation Common Shares",
       "name_en": "South Bow Corporation Common Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "ussobr": {
-      "code": "sobr",
-      "market": "us",
-      "type": "美",
-      "name": "SOBR Safe, Inc. - Common Stock",
-      "name_en": "SOBR Safe, Inc. - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -97921,33 +98452,6 @@
       "py": "",
       "abbr": ""
     },
-    "usspkl": {
-      "code": "spkl",
-      "market": "us",
-      "type": "美",
-      "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
-      "name_en": "Spark I Acquisition Corp. - Class A Ordinary Share",
-      "py": "",
-      "abbr": ""
-    },
-    "usspklu": {
-      "code": "spklu",
-      "market": "us",
-      "type": "美",
-      "name": "Spark I Acquisition Corp. - Unit",
-      "name_en": "Spark I Acquisition Corp. - Unit",
-      "py": "",
-      "abbr": ""
-    },
-    "usspklw": {
-      "code": "spklw",
-      "market": "us",
-      "type": "美",
-      "name": "Spark I Acquisition Corp. - Warrant",
-      "name_en": "Spark I Acquisition Corp. - Warrant",
-      "py": "",
-      "abbr": ""
-    },
     "ussplb": {
       "code": "splb",
       "market": "us",
@@ -98386,6 +98890,15 @@
       "type": "美",
       "name": "ProShares S&P 500 Ex-Financials ETF",
       "name_en": "ProShares S&P 500 Ex-Financials ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usspxp": {
+      "code": "spxp",
+      "market": "us",
+      "type": "美",
+      "name": "Direxion U.S. 500 Plus ETF",
+      "name_en": "Direxion U.S. 500 Plus ETF",
       "py": "",
       "abbr": ""
     },
@@ -100252,6 +100765,24 @@
       "py": "",
       "abbr": ""
     },
+    "ussvia": {
+      "code": "svia",
+      "market": "us",
+      "type": "美",
+      "name": "Silvia, Inc. - Common Stock",
+      "name_en": "Silvia, Inc. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "ussviaw": {
+      "code": "sviaw",
+      "market": "us",
+      "type": "美",
+      "name": "Silvia, Inc. - Warrant.",
+      "name_en": "Silvia, Inc. - Warrant.",
+      "py": "",
+      "abbr": ""
+    },
     "ussviv": {
       "code": "sviv",
       "market": "us",
@@ -101251,12 +101782,30 @@
       "py": "wuguihaian",
       "abbr": "wgha"
     },
+    "ustbcv": {
+      "code": "tbcv",
+      "market": "us",
+      "type": "美",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",
+      "name_en": "Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "ustbcvu": {
       "code": "tbcvu",
       "market": "us",
       "type": "美",
       "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
       "name_en": "Thunder Bridge Capital Partners V, Ltd. - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "ustbcvw": {
+      "code": "tbcvw",
+      "market": "us",
+      "type": "美",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Warrants",
+      "name_en": "Thunder Bridge Capital Partners V, Ltd. - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -101368,15 +101917,6 @@
       "py": "",
       "abbr": ""
     },
-    "ustbph": {
-      "code": "tbph",
-      "market": "us",
-      "type": "美",
-      "name": "Theravance Biopharma, Inc. - Ordinary Shares",
-      "name_en": "Theravance Biopharma, Inc. - Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
     "ustbt": {
       "code": "tbt",
       "market": "us",
@@ -101462,17 +102002,17 @@
       "code": "tcbi",
       "market": "us",
       "type": "美",
-      "name": "Texas Capital Bancshares, Inc. - Common Stock",
-      "name_en": "Texas Capital Bancshares, Inc. - Common Stock",
+      "name": "Texas Capital Bancshares, Inc. Common Stock",
+      "name_en": "Texas Capital Bancshares, Inc. Common Stock",
       "py": "",
       "abbr": ""
     },
-    "ustcbio": {
-      "code": "tcbio",
+    "ustcbi_b": {
+      "code": "tcbi_b",
       "market": "us",
       "type": "美",
-      "name": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
-      "name_en": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+      "name_en": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
       "py": "",
       "abbr": ""
     },
@@ -101606,8 +102146,8 @@
       "code": "tcv",
       "market": "us",
       "type": "美",
-      "name": "Towle Value ETF",
-      "name_en": "Towle Value ETF",
+      "name": "Towle Small-Cap Value ETF",
+      "name_en": "Towle Small-Cap Value ETF",
       "py": "",
       "abbr": ""
     },
@@ -101710,6 +102250,15 @@
       "py": "",
       "abbr": ""
     },
+    "ustdem": {
+      "code": "tdem",
+      "market": "us",
+      "type": "美",
+      "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF",
+      "name_en": "T. Rowe Price Dynamic Emerging Markets Bond ETF",
+      "py": "",
+      "abbr": ""
+    },
     "ustdf": {
       "code": "tdf",
       "market": "us",
@@ -101752,6 +102301,15 @@
       "type": "美",
       "name": "First Trust NASDAQ Technology Dividend Index Fund",
       "name_en": "First Trust NASDAQ Technology Dividend Index Fund",
+      "py": "",
+      "abbr": ""
+    },
+    "ustdna": {
+      "code": "tdna",
+      "market": "us",
+      "type": "美",
+      "name": "T. Rowe Price Biotech ETF",
+      "name_en": "T. Rowe Price Biotech ETF",
       "py": "",
       "abbr": ""
     },
@@ -102327,7 +102885,7 @@
       "market": "us",
       "type": "美",
       "name": "梯瓦制药",
-      "name_en": "Teva Pharmaceutical Industries Limited American Depositary Shares",
+      "name_en": "Teva Pharmaceutical Industries Limited Ordinary Shares",
       "py": "tiwazhiyao",
       "abbr": "twzy"
     },
@@ -103240,6 +103798,15 @@
       "py": "",
       "abbr": ""
     },
+    "ustize": {
+      "code": "tize",
+      "market": "us",
+      "type": "美",
+      "name": "TCW Securitized Income ETF",
+      "name_en": "TCW Securitized Income ETF",
+      "py": "",
+      "abbr": ""
+    },
     "ustjan": {
       "code": "tjan",
       "market": "us",
@@ -103375,12 +103942,30 @@
       "py": "",
       "abbr": ""
     },
+    "ustlac": {
+      "code": "tlac",
+      "market": "us",
+      "type": "美",
+      "name": "Three Lions Acquisition Corp. - Ordinary Shares",
+      "name_en": "Three Lions Acquisition Corp. - Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "ustlacu": {
       "code": "tlacu",
       "market": "us",
       "type": "美",
       "name": "Three Lions Acquisition Corp. - Units",
       "name_en": "Three Lions Acquisition Corp. - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "ustlacw": {
+      "code": "tlacw",
+      "market": "us",
+      "type": "美",
+      "name": "Three Lions Acquisition Corp. - Warrants",
+      "name_en": "Three Lions Acquisition Corp. - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -103428,6 +104013,15 @@
       "name_en": "iShares 10-20 Year Treasury Bond ETF",
       "py": "10-20nianguozhaietf-ishares",
       "abbr": "10-20ngzetf-ishares"
+    },
+    "ustlie": {
+      "code": "tlie",
+      "market": "us",
+      "type": "美",
+      "name": "American Beacon The London Company Income Equity ETF",
+      "name_en": "American Beacon The London Company Income Equity ETF",
+      "py": "",
+      "abbr": ""
     },
     "ustlih": {
       "code": "tlih",
@@ -103804,6 +104398,15 @@
       "type": "美",
       "name": "Toyota Motor Corporation ADRhedged",
       "name_en": "Toyota Motor Corporation ADRhedged",
+      "py": "",
+      "abbr": ""
+    },
+    "ustmid": {
+      "code": "tmid",
+      "market": "us",
+      "type": "美",
+      "name": "T. Rowe Price Mid Cap Equity Research ETF",
+      "name_en": "T. Rowe Price Mid Cap Equity Research ETF",
       "py": "",
       "abbr": ""
     },
@@ -104302,12 +104905,21 @@
       "py": "",
       "abbr": ""
     },
+    "ustork": {
+      "code": "tork",
+      "market": "us",
+      "type": "美",
+      "name": "KraneShares Actuator ETF",
+      "name_en": "KraneShares Actuator ETF",
+      "py": "",
+      "abbr": ""
+    },
     "ustoro": {
       "code": "toro",
       "market": "us",
       "type": "美",
-      "name": "Toro Corp. - Common stock",
-      "name_en": "Toro Corp. - Common stock",
+      "name": "Toro Corp. - Common Shares",
+      "name_en": "Toro Corp. - Common Shares",
       "py": "",
       "abbr": ""
     },
@@ -104887,6 +105499,15 @@
       "py": "",
       "abbr": ""
     },
+    "ustril": {
+      "code": "tril",
+      "market": "us",
+      "type": "美",
+      "name": "VegaShares Trillions ETF",
+      "name_en": "VegaShares Trillions ETF",
+      "py": "",
+      "abbr": ""
+    },
     "ustrin": {
       "code": "trin",
       "market": "us",
@@ -105116,8 +105737,8 @@
       "code": "trt",
       "market": "us",
       "type": "美",
-      "name": "Trio-Tech International Common Stock",
-      "name_en": "Trio-Tech International Common Stock",
+      "name": "Trio-Tech International - Common Stock",
+      "name_en": "Trio-Tech International - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -105373,6 +105994,15 @@
       "py": "",
       "abbr": ""
     },
+    "ustrxb": {
+      "code": "trxb",
+      "market": "us",
+      "type": "美",
+      "name": "TRex Bio, Inc. - Common stock",
+      "name_en": "TRex Bio, Inc. - Common stock",
+      "py": "",
+      "abbr": ""
+    },
     "ustrxs": {
       "code": "trxs",
       "market": "us",
@@ -105460,6 +106090,15 @@
       "type": "美",
       "name": "Touchstone Securitized Income ETF",
       "name_en": "Touchstone Securitized Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "ustsee": {
+      "code": "tsee",
+      "market": "us",
+      "type": "美",
+      "name": "T. Rowe Price Small Cap ETF",
+      "name_en": "T. Rowe Price Small Cap ETF",
       "py": "",
       "abbr": ""
     },
@@ -106435,42 +107074,6 @@
       "py": "",
       "abbr": ""
     },
-    "ustwo_a": {
-      "code": "two_a",
-      "market": "us",
-      "type": "美",
-      "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
-      "name_en": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
-      "py": "",
-      "abbr": ""
-    },
-    "ustwo_b": {
-      "code": "two_b",
-      "market": "us",
-      "type": "美",
-      "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "name_en": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "ustwo_c": {
-      "code": "two_c",
-      "market": "us",
-      "type": "美",
-      "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "name_en": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "ustwod": {
-      "code": "twod",
-      "market": "us",
-      "type": "美",
-      "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
-      "name_en": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
-      "py": "",
-      "abbr": ""
-    },
     "ustwox": {
       "code": "twox",
       "market": "us",
@@ -106513,6 +107116,15 @@
       "type": "美",
       "name": "21Shares FTSE Crypto 10 ex-BTC Index ETF",
       "name_en": "21Shares FTSE Crypto 10 ex-BTC Index ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "ustxca": {
+      "code": "txca",
+      "market": "us",
+      "type": "美",
+      "name": "Northern Trust California Intermediate Tax-Exempt Bond ETF",
+      "name_en": "Northern Trust California Intermediate Tax-Exempt Bond ETF",
       "py": "",
       "abbr": ""
     },
@@ -106560,6 +107172,15 @@
       "name_en": "Direxion Daily TXN Bull 2X ETF",
       "py": "erbeizuoduotxnetf-direxion",
       "abbr": "ebzdtxnetf-direxion"
+    },
+    "ustxny": {
+      "code": "txny",
+      "market": "us",
+      "type": "美",
+      "name": "Northern Trust New York Intermediate Tax-Exempt Bond ETF",
+      "name_en": "Northern Trust New York Intermediate Tax-Exempt Bond ETF",
+      "py": "",
+      "abbr": ""
     },
     "ustxo": {
       "code": "txo",
@@ -106920,6 +107541,15 @@
       "name_en": "Roundhill UBER WeeklyPay ETF",
       "py": "youbuzhoushouyietf-roundhill",
       "abbr": "ybzsyetf-roundhill"
+    },
+    "usubiq": {
+      "code": "ubiq",
+      "market": "us",
+      "type": "美",
+      "name": "AAM Ubiquitous ETF",
+      "name_en": "AAM Ubiquitous ETF",
+      "py": "",
+      "abbr": ""
     },
     "usubnd": {
       "code": "ubnd",
@@ -109297,39 +109927,21 @@
       "py": "wanhaodujiahuanqiu",
       "abbr": "whdjhq"
     },
-    "usvaci": {
-      "code": "vaci",
-      "market": "us",
-      "type": "美",
-      "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
-      "name_en": "Viking Acquisition Corp. I Class A Ordinary Shares",
-      "py": "",
-      "abbr": ""
-    },
-    "usvaci_u": {
-      "code": "vaci_u",
-      "market": "us",
-      "type": "美",
-      "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
-      "name_en": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
-      "py": "",
-      "abbr": ""
-    },
-    "usvaci_ws": {
-      "code": "vaci_ws",
-      "market": "us",
-      "type": "美",
-      "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
-      "name_en": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
-      "py": "",
-      "abbr": ""
-    },
     "usvai": {
       "code": "vai",
       "market": "us",
       "type": "美",
       "name": "Valor Energy Incorporated - Common Stock",
       "name_en": "Valor Energy Incorporated - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
+    "usvaic": {
+      "code": "vaic",
+      "market": "us",
+      "type": "美",
+      "name": "VegaShares US Equity Autocallable Conservative Income ETF",
+      "name_en": "VegaShares US Equity Autocallable Conservative Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -110350,6 +110962,15 @@
       "py": "xinxikejizhishuetf-vanguard",
       "abbr": "xxkjzsetf-vanguard"
     },
+    "usvgtx": {
+      "code": "vgtx",
+      "market": "us",
+      "type": "美",
+      "name": "XFUNDS Technology Income ETF",
+      "name_en": "XFUNDS Technology Income ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usvgus": {
       "code": "vgus",
       "market": "us",
@@ -110737,6 +111358,15 @@
       "py": "konghuangzhishuqihuoduanqiheyueetf",
       "abbr": "khzsqhdqhyetf"
     },
+    "usvjet": {
+      "code": "vjet",
+      "market": "us",
+      "type": "美",
+      "name": "Flyte Aviation, Inc. Common Stock",
+      "name_en": "Flyte Aviation, Inc. Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usvki": {
       "code": "vki",
       "market": "us",
@@ -110953,6 +111583,15 @@
       "py": "",
       "abbr": ""
     },
+    "usvmhy": {
+      "code": "vmhy",
+      "market": "us",
+      "type": "美",
+      "name": "VictoryShares Municipal High Yield ETF",
+      "name_en": "VictoryShares Municipal High Yield ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usvmi": {
       "code": "vmi",
       "market": "us",
@@ -110986,6 +111625,15 @@
       "type": "美",
       "name": "Voya Multi-Sector Income ETF",
       "name_en": "Voya Multi-Sector Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usvmsd": {
+      "code": "vmsd",
+      "market": "us",
+      "type": "美",
+      "name": "VictoryShares Short-Duration Municipal ETF",
+      "name_en": "VictoryShares Short-Duration Municipal ETF",
       "py": "",
       "abbr": ""
     },
@@ -111277,6 +111925,15 @@
       "py": "biaopu500etf-vanguard",
       "abbr": "bp500etf-vanguard"
     },
+    "usvoob": {
+      "code": "voob",
+      "market": "us",
+      "type": "美",
+      "name": "VistaShares Shield S&P 500 Enhanced Protection ETF",
+      "name_en": "VistaShares Shield S&P 500 Enhanced Protection ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usvoog": {
       "code": "voog",
       "market": "us",
@@ -111535,15 +112192,6 @@
       "type": "美",
       "name": "Vroom, Inc. - Common Stock",
       "name_en": "Vroom, Inc. - Common Stock",
-      "py": "",
-      "abbr": ""
-    },
-    "usvrme": {
-      "code": "vrme",
-      "market": "us",
-      "type": "美",
-      "name": "VerifyMe, Inc. - Common Stock",
-      "name_en": "VerifyMe, Inc. - Common Stock",
       "py": "",
       "abbr": ""
     },
@@ -111852,15 +112500,6 @@
       "name_en": "Vanguard Total World Stock Index ETF",
       "py": "shijiequanshichangzhishuetf-vanguard",
       "abbr": "sjqsczsetf-vanguard"
-    },
-    "usvtak": {
-      "code": "vtak",
-      "market": "us",
-      "type": "美",
-      "name": "Catheter Precision, Inc. Common Stock",
-      "name_en": "Catheter Precision, Inc. Common Stock",
-      "py": "",
-      "abbr": ""
     },
     "usvtc": {
       "code": "vtc",
@@ -112303,6 +112942,15 @@
       "py": "",
       "abbr": ""
     },
+    "usvylr": {
+      "code": "vylr",
+      "market": "us",
+      "type": "美",
+      "name": "Vylor Inc. Common Stock",
+      "name_en": "Vylor Inc. Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "usvym": {
       "code": "vym",
       "market": "us",
@@ -112438,24 +113086,6 @@
       "py": "",
       "abbr": ""
     },
-    "uswald": {
-      "code": "wald",
-      "market": "us",
-      "type": "美",
-      "name": "Waldencast plc - Class A Ordinary Share",
-      "name_en": "Waldencast plc - Class A Ordinary Share",
-      "py": "",
-      "abbr": ""
-    },
-    "uswaldw": {
-      "code": "waldw",
-      "market": "us",
-      "type": "美",
-      "name": "Waldencast plc - Warrant",
-      "name_en": "Waldencast plc - Warrant",
-      "py": "",
-      "abbr": ""
-    },
     "uswama": {
       "code": "wama",
       "market": "us",
@@ -112564,15 +113194,6 @@
       "py": "weibo",
       "abbr": "wb"
     },
-    "uswbd": {
-      "code": "wbd",
-      "market": "us",
-      "type": "美",
-      "name": "华纳兄弟探索",
-      "name_en": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-      "py": "huanaxiongditansuo",
-      "abbr": "hnxdts"
-    },
     "uswbi": {
       "code": "wbi",
       "market": "us",
@@ -112671,6 +113292,15 @@
       "name_en": "WESCO International, Inc. Common Stock",
       "py": "xikeguoji",
       "abbr": "xkgj"
+    },
+    "uswccb": {
+      "code": "wccb",
+      "market": "us",
+      "type": "美",
+      "name": "West Coast Community Bancorp - Common Stock",
+      "name_en": "West Coast Community Bancorp - Common Stock",
+      "py": "",
+      "abbr": ""
     },
     "uswceo": {
       "code": "wceo",
@@ -113536,15 +114166,6 @@
       "py": "",
       "abbr": ""
     },
-    "uswkey": {
-      "code": "wkey",
-      "market": "us",
-      "type": "美",
-      "name": "WISeKey International Holding Ltd - American Depositary Shares",
-      "name_en": "WISeKey International Holding Ltd - American Depositary Shares",
-      "py": "",
-      "abbr": ""
-    },
     "uswkhs": {
       "code": "wkhs",
       "market": "us",
@@ -113896,6 +114517,15 @@
       "py": "",
       "abbr": ""
     },
+    "usworx": {
+      "code": "worx",
+      "market": "us",
+      "type": "美",
+      "name": "SCWorx Corp. - Common Stock",
+      "name_en": "SCWorx Corp. - Common Stock",
+      "py": "",
+      "abbr": ""
+    },
     "uswpac": {
       "code": "wpac",
       "market": "us",
@@ -113958,6 +114588,15 @@
       "name_en": "Westport Fuel Systems Inc - Common Shares",
       "py": "xigangranliao",
       "abbr": "xgrl"
+    },
+    "uswqey": {
+      "code": "wqey",
+      "market": "us",
+      "type": "美",
+      "name": "WISeQey Corp - Ordinary Shares",
+      "name_en": "WISeQey Corp - Ordinary Shares",
+      "py": "",
+      "abbr": ""
     },
     "uswqtm": {
       "code": "wqtm",
@@ -114184,6 +114823,15 @@
       "py": "",
       "abbr": ""
     },
+    "uswsls": {
+      "code": "wsls",
+      "market": "us",
+      "type": "美",
+      "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund",
+      "name_en": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund",
+      "py": "",
+      "abbr": ""
+    },
     "uswsm": {
       "code": "wsm",
       "market": "us",
@@ -114289,6 +114937,15 @@
       "type": "美",
       "name": "WisdomTree Artificial Intelligence and Innovation Fund",
       "name_en": "WisdomTree Artificial Intelligence and Innovation Fund",
+      "py": "",
+      "abbr": ""
+    },
+    "uswtal": {
+      "code": "wtal",
+      "market": "us",
+      "type": "美",
+      "name": "WisdomTree Global Alpha Fund",
+      "name_en": "WisdomTree Global Alpha Fund",
       "py": "",
       "abbr": ""
     },
@@ -114904,15 +115561,6 @@
       "py": "",
       "abbr": ""
     },
-    "usxbnb": {
-      "code": "xbnb",
-      "market": "us",
-      "type": "美",
-      "name": "Teucrium xETFs 2x Long Daily BNB ETF",
-      "name_en": "Teucrium xETFs 2x Long Daily BNB ETF",
-      "py": "",
-      "abbr": ""
-    },
     "usxboc": {
       "code": "xboc",
       "market": "us",
@@ -115435,12 +116083,30 @@
       "py": "",
       "abbr": ""
     },
+    "usxiii": {
+      "code": "xiii",
+      "market": "us",
+      "type": "美",
+      "name": "Churchill Capital Corp XIII - Class A Ordinary Shares",
+      "name_en": "Churchill Capital Corp XIII - Class A Ordinary Shares",
+      "py": "",
+      "abbr": ""
+    },
     "usxiiiu": {
       "code": "xiiiu",
       "market": "us",
       "type": "美",
       "name": "Churchill Capital Corp XIII - Units",
       "name_en": "Churchill Capital Corp XIII - Units",
+      "py": "",
+      "abbr": ""
+    },
+    "usxiiiw": {
+      "code": "xiiiw",
+      "market": "us",
+      "type": "美",
+      "name": "Churchill Capital Corp XIII - Warrants",
+      "name_en": "Churchill Capital Corp XIII - Warrants",
       "py": "",
       "abbr": ""
     },
@@ -116618,8 +117284,8 @@
       "code": "xspc",
       "market": "us",
       "type": "美",
-      "name": "VegaShares SpaceX & Beyond Earth ETF",
-      "name_en": "VegaShares SpaceX & Beyond Earth ETF",
+      "name": "VegaShares Space & AI ETF",
+      "name_en": "VegaShares Space & AI ETF",
       "py": "",
       "abbr": ""
     },
@@ -116848,6 +117514,15 @@
       "py": "",
       "abbr": ""
     },
+    "usxusm": {
+      "code": "xusm",
+      "market": "us",
+      "type": "美",
+      "name": "MarketDesk International Momentum ETF",
+      "name_en": "MarketDesk International Momentum ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usxusp": {
       "code": "xusp",
       "market": "us",
@@ -116866,6 +117541,15 @@
       "py": "",
       "abbr": ""
     },
+    "usxvad": {
+      "code": "xvad",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest AMD & Target Income ETF",
+      "name_en": "FT Vest AMD & Target Income ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usxvap": {
       "code": "xvap",
       "market": "us",
@@ -116875,12 +117559,57 @@
       "py": "",
       "abbr": ""
     },
+    "usxvaz": {
+      "code": "xvaz",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest AMZN & Target Income ETF",
+      "name_en": "FT Vest AMZN & Target Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usxvgl": {
+      "code": "xvgl",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest GOOG & Target Income ETF",
+      "name_en": "FT Vest GOOG & Target Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usxvms": {
+      "code": "xvms",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest MSFT & Target Income ETF",
+      "name_en": "FT Vest MSFT & Target Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usxvmt": {
+      "code": "xvmt",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest META & Target Income ETF",
+      "name_en": "FT Vest META & Target Income ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usxvnv": {
       "code": "xvnv",
       "market": "us",
       "type": "美",
       "name": "FT Vest NVDA & Target Income ETF",
       "name_en": "FT Vest NVDA & Target Income ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usxvpt": {
+      "code": "xvpt",
+      "market": "us",
+      "type": "美",
+      "name": "FT Vest PLTR & Target Income ETF",
+      "name_en": "FT Vest PLTR & Target Income ETF",
       "py": "",
       "abbr": ""
     },
@@ -116938,6 +117667,15 @@
       "py": "",
       "abbr": ""
     },
+    "usxx": {
+      "code": "xx",
+      "market": "us",
+      "type": "美",
+      "name": "Roundhill S&P 500 Target 10,000 2030 ETF",
+      "name_en": "Roundhill S&P 500 Target 10,000 2030 ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usxxi": {
       "code": "xxi",
       "market": "us",
@@ -116956,12 +117694,30 @@
       "py": "",
       "abbr": ""
     },
+    "usxxqq": {
+      "code": "xxqq",
+      "market": "us",
+      "type": "美",
+      "name": "Subversive Growth 100 Redacted ETF",
+      "name_en": "Subversive Growth 100 Redacted ETF",
+      "py": "",
+      "abbr": ""
+    },
     "usxxrp": {
       "code": "xxrp",
       "market": "us",
       "type": "美",
       "name": "Teucrium 2x Long Daily XRP ETF",
       "name_en": "Teucrium 2x Long Daily XRP ETF",
+      "py": "",
+      "abbr": ""
+    },
+    "usxxsp": {
+      "code": "xxsp",
+      "market": "us",
+      "type": "美",
+      "name": "Subversive S&P 500 Redacted ETF",
+      "name_en": "Subversive S&P 500 Redacted ETF",
       "py": "",
       "abbr": ""
     },
@@ -118393,15 +119149,6 @@
       "type": "美",
       "name": "USCF Sustainable Battery Metals Strategy Fund",
       "name_en": "USCF Sustainable Battery Metals Strategy Fund",
-      "py": "",
-      "abbr": ""
-    },
-    "uszsc": {
-      "code": "zsc",
-      "market": "us",
-      "type": "美",
-      "name": "USCF Sustainable Commodity Strategy Fund",
-      "name_en": "USCF Sustainable Commodity Strategy Fund",
       "py": "",
       "abbr": ""
     },

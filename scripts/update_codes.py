@@ -19,9 +19,9 @@ from threading import Lock
 
 import pandas as pd
 import requests
-
 from openpyxl import load_workbook
 from pypinyin import Style, pinyin
+from opencc import OpenCC
 
 # 脚本位于 <root>/scripts/。服务器可用 CODES_OUTPUT_DIR 指向 codes-data
 # 工作树，确保失败分类保留数据分支中的上一版文件。
@@ -410,7 +410,7 @@ def _stock_hk_name_code() -> pd.DataFrame:
             continue
         code = _hkex_code(item.get("Stock Code"))
         name_en = str(item.get("Name of Securities") or "").strip()
-        name = chinese_names.get(code, "")
+        name = traditional_to_simplified(chinese_names.get(code, ""))
         if not code or not (name or name_en):
             continue
         rows.append((code, name, name_en, mtype, "hk"))
@@ -423,6 +423,19 @@ def _stock_hk_name_code() -> pd.DataFrame:
     print(f"港股基金: {fund_count} 条", flush=True)
     return _rows_frame(rows)
 
+
+def traditional_to_simplified(text: str) -> str:
+    """
+    将繁体中文转换为简体中文。
+
+    参数:
+        text (str): 输入的繁体中文文本。
+
+    返回:
+        str: 转换后的简体中文文本。
+    """
+    cc = OpenCC('t2s')  # t2s = Traditional to Simplified
+    return cc.convert(text)
 
 # ----------------- 东财数据 -----------------
 
@@ -677,15 +690,15 @@ def _offline_index_name_code() -> pd.DataFrame:
 def _tasks() -> list[tuple]:
     """每个任务负责一个 JSON；耗时较长的任务优先提交到线程池。"""
     return [
-        ("stock_us.json", "美股", _stock_us_name_code, (), {}),
+        # ("stock_us.json", "美股", _stock_us_name_code, (), {}),
         ("stock_hk.json", "港股", _stock_hk_name_code, (), {}),
-        ("futures_sh.json", "上期所期货", futures_info_all, (), {}),
-        ("stock_sh.json", "沪市股票", _stock_sh_all, (), {}),
-        ("stock_sz.json", "深市股票", _stock_sz_all, (), {}),
-        ("fund_cn.json", "沪深基金", _fund_exchange_all, (), {}),
-        ("stock_bj.json", "京市", _em_stock_df, ("m:0+t:81+s:2048", "京"), {"market": "bj"}),
-        ("index_cn.json", "国内指数", _index_cn_em, (), {}),
-        ("index_global.json", "全球指数", _offline_index_name_code, (), {}),
+        # ("futures_sh.json", "上期所期货", futures_info_all, (), {}),
+        # ("stock_sh.json", "沪市股票", _stock_sh_all, (), {}),
+        # ("stock_sz.json", "深市股票", _stock_sz_all, (), {}),
+        # ("fund_cn.json", "沪深基金", _fund_exchange_all, (), {}),
+        # ("stock_bj.json", "京市", _em_stock_df, ("m:0+t:81+s:2048", "京"), {"market": "bj"}),
+        # ("index_cn.json", "国内指数", _index_cn_em, (), {}),
+        # ("index_global.json", "全球指数", _offline_index_name_code, (), {}),
     ]
 
 

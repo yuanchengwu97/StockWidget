@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-11",
+  "last_update": "2026-10-11",
   "codes": {
     "sz000001": {
       "code": "000001",
@@ -4023,6 +4023,15 @@
       "name_en": "",
       "py": "yongdagufen",
       "abbr": "ydgf"
+    },
+    "sz001246": {
+      "code": "001246",
+      "market": "sz",
+      "type": "深",
+      "name": "C力勤资源",
+      "name_en": "",
+      "py": "cliqinziyuan",
+      "abbr": "clqzy"
     },
     "sz001248": {
       "code": "001248",
@@ -14576,10 +14585,10 @@
       "code": "300096",
       "market": "sz",
       "type": "创",
-      "name": "ST易联众",
+      "name": "易联众",
       "name_en": "",
-      "py": "styilianzhong",
-      "abbr": "stylz"
+      "py": "yilianzhong",
+      "abbr": "ylz"
     },
     "sz300097": {
       "code": "300097",
@@ -15521,10 +15530,10 @@
       "code": "300211",
       "market": "sz",
       "type": "创",
-      "name": "*ST亿通",
+      "name": "亿通科技",
       "name_en": "",
-      "py": "*styitong",
-      "abbr": "*styt"
+      "py": "yitongkeji",
+      "abbr": "ytkj"
     },
     "sz300212": {
       "code": "300212",
@@ -18149,10 +18158,10 @@
       "code": "300527",
       "market": "sz",
       "type": "创",
-      "name": "ST应急",
+      "name": "中船应急",
       "name_en": "",
-      "py": "styingji",
-      "abbr": "styj"
+      "py": "zhongchuanyingji",
+      "abbr": "zcyj"
     },
     "sz300528": {
       "code": "300528",
@@ -23360,10 +23369,10 @@
       "code": "301139",
       "market": "sz",
       "type": "创",
-      "name": "*ST元道",
+      "name": "元道退",
       "name_en": "",
-      "py": "*styuandao",
-      "abbr": "*styd"
+      "py": "yuandaotui",
+      "abbr": "ydt"
     },
     "sz301141": {
       "code": "301141",
@@ -24854,10 +24863,10 @@
       "code": "301339",
       "market": "sz",
       "type": "创",
-      "name": "通行宝",
+      "name": "苏交数智",
       "name_en": "",
-      "py": "tongxingbao",
-      "abbr": "txb"
+      "py": "sujiaoshuzhi",
+      "abbr": "sjsz"
     },
     "sz301345": {
       "code": "301345",
@@ -26371,6 +26380,15 @@
       "py": "huiguxincai",
       "abbr": "hgxc"
     },
+    "sz301686": {
+      "code": "301686",
+      "market": "sz",
+      "type": "创",
+      "name": "中塑股份",
+      "name_en": "",
+      "py": "zhongsugufen",
+      "abbr": "zsgf"
+    },
     "sz301687": {
       "code": "301687",
       "market": "sz",
@@ -26393,10 +26411,10 @@
       "code": "301689",
       "market": "sz",
       "type": "创",
-      "name": "C电科思仪",
+      "name": "电科思仪",
       "name_en": "",
-      "py": "cdiankesiyi",
-      "abbr": "cdksy"
+      "py": "diankesiyi",
+      "abbr": "dksy"
     },
     "sz301696": {
       "code": "301696",
@@ -26420,10 +26438,10 @@
       "code": "301699",
       "market": "sz",
       "type": "创",
-      "name": "C洛轴股份",
+      "name": "洛轴股份",
       "name_en": "",
-      "py": "cluozhougufen",
-      "abbr": "clzgf"
+      "py": "luozhougufen",
+      "abbr": "lzgf"
     },
     "sz301707": {
       "code": "301707",
@@ -26433,6 +26451,15 @@
       "name_en": "",
       "py": "zhanxingufen",
       "abbr": "zxgf"
+    },
+    "sz301716": {
+      "code": "301716",
+      "market": "sz",
+      "type": "创",
+      "name": "C鸿富诚",
+      "name_en": "",
+      "py": "chongfucheng",
+      "abbr": "chfc"
     },
     "sz301717": {
       "code": "301717",
